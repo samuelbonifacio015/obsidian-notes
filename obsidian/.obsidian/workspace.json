@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Gastos & Finanzas/Resumen Gastos.md",
+                "file": "2026/Gastos & Finanzas/Plantilla análisis de gastos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resumen Gastos"
+              "title": "Plantilla análisis de gastos"
             }
           }
         ],
@@ -200,8 +200,10 @@
   },
   "active": "0bc681d74977fa5f",
   "lastOpenFiles": [
-    "2026/Gastos & Finanzas/Gastos & Finanzas.md",
+    "2026/Gastos & Finanzas/SKILL.md",
+    "2026/Gastos & Finanzas/Plantilla análisis de gastos.md",
     "2026/Gastos & Finanzas/Resumen Gastos.md",
+    "2026/Gastos & Finanzas/Gastos & Finanzas.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "Untitled 1",
     "2026/Gastos & Finanzas",
