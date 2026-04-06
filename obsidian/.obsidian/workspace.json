@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Weekly Summary/Templates/Weekly Plan Template.md",
+                "file": "2026/Semana 2/Week 2 - Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Plan Template"
+              "title": "Week 2 - Plan"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -184,14 +184,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Iniciar/Detener la grabación": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
@@ -199,7 +199,14 @@
   },
   "active": "21645a734bbbecfe",
   "lastOpenFiles": [
+    "Universidad/plan calendarios/Aplicaciones Moviles.pdf",
     "2026/Semana 2/Week 2 - Plan.md",
+    "Universidad/plan calendarios/Sistemas Operativos.pdf",
+    "Universidad/plan calendarios/Estadistica Plan Calendario.pdf",
+    "Universidad/plan calendarios/Calculo II Plan calendario semipresencial.pdf",
+    "Universidad/plan calendarios",
+    "2026/Semana 1/Week Summary.md",
+    "2026/Gastos & Finanzas/Análisis Claude Code.md",
     "2026/Weekly Summary/Templates/Weekly Plan Template.md",
     "2026/Weekly Summary/Templates",
     "Universidad/Aplicaciones Moviles/Kanban.md",
@@ -222,18 +229,10 @@
     "2026/Semana 2/samuel-context/samuel-context",
     "2026/Semana 2/samuel-context",
     "2026/Weekly Summary/SKILL.md",
-    "2026/Semana 2/samuel-context.skill",
-    "Sin nombre",
-    "Samuel Context",
     "2026/Gastos & Finanzas/SKILL.md",
-    "2026/Semana 1/Week Summary.md",
-    "2026/Semana 2",
-    "2026/Semana 1/Análisis Claude Code.md",
     "2026/Semana 1/Sin título.md",
-    "2026/Weekly Summary",
     "2026/Gastos & Finanzas/Plan Financiero Abril-Julio 2026.md",
     "Universidad/Aplicaciones Moviles/Resumen Extendido.md",
-    "Universidad/Aplicaciones Moviles/Resumen General.md",
-    "2026/Semanas (Antiguo)/Semana 5 (Vacaciones)/Weekly PLAN.md"
+    "Universidad/Aplicaciones Moviles/Resumen General.md"
   ]
 }
