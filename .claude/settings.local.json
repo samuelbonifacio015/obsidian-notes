@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(cd /c/Users/crama/Desktop/obsidian-notes/obsidian/2026/\"Semana 2\")",
+      "Bash(unzip -o samuel-context.skill -d samuel-context)",
+      "Bash(mv samuel-context/samuel-context/* samuel-context/)",
+      "Bash(rmdir samuel-context/samuel-context)",
+      "Bash(unzip -fo samuel-context.skill)",
+      "Bash(7z x:*)",
+      "Bash(unzip samuel-context.skill -d samuel-context)",
+      "Bash(mv samuel-context/samuel-content/SKILL.md samuel-context/)",
+      "Bash(for f:*)",
+      "Bash(do mv:*)",
+      "Bash(done)",
+      "Bash(rm -rf samuel-context/samuel-content samuel-context/samuel-context)"
+    ]
+  }
+}
