@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Gastos & Finanzas/Plan Financiero Abril-Julio 2026.md",
+                "file": "2026/Semana 1/Week Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan Financiero Abril-Julio 2026"
+              "title": "Week Summary"
             }
           },
           {
@@ -215,15 +215,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c258980ae6713cf",
+  "active": "cf95f1f8121ee291",
   "lastOpenFiles": [
+    "2026/Semana 2",
+    "2026/Semana 1/Análisis Claude Code.md",
+    "2026/Semana 1/Sin título.md",
+    "2026/Semana 1/Week Summary.md",
+    "2026/Weekly Summary",
     "2026/Gastos & Finanzas/Plan Financiero Abril-Julio 2026.md",
-    "2026/Gastos & Finanzas/Análisis Claude Code.md",
+    "2026/Semana 1",
+    "2026/Semanas (Antiguo)",
     "2026/Gastos & Finanzas/SKILL.md",
     "Universidad/Aplicaciones Moviles/Resumen Extendido.md",
     "Universidad/Aplicaciones Moviles/Resumen General.md",
     "Universidad/Aplicaciones Moviles/Kanban.md",
-    "2026/Semana 5/Weekly PLAN.md",
+    "2026/Semanas (Antiguo)/Semana 5 (Vacaciones)/Weekly PLAN.md",
     "Universidad/Aplicaciones Moviles/Untitled.md",
     "Excalidraw/Drawing 2026-04-01 20.27.58.excalidraw.md",
     "Excalidraw",
@@ -239,13 +245,10 @@
     "2026/Gastos & Finanzas/Gastos & Finanzas.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "Untitled 1",
-    "2026/Gastos & Finanzas",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "Sesiones Programación.md",
-    "2026/Semana 4/Weekly PLAN.md",
-    "2026/Semana 5/sesion_1770164321713-jz0z8njjh.json",
+    "2026/Semanas (Antiguo)/Semana 4 (Vacaciones)/Weekly PLAN.md",
     "Aprendizaje de Inglés.md",
-    "2026/Semana 5/Untitled.md",
-    "2026/Semana 5"
+    "2026/Semana 5/Untitled.md"
   ]
 }
