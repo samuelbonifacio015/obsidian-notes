@@ -12,15 +12,15 @@
 
 ## 📊 Vista rápida
 
-|Área|Foco principal|Carga est.|
-|---|---|---|
-|📱 Apps Móviles|Componentes básicos + StyleSheet (Semana 2)|~3hr|
-|💻 Sistemas Operativos|Gestión de procesos — PCB, estados (Semana 2)|~3hr|
-|🧮 Cálculo 2|Tema semana 2 _(a confirmar con el profe)_|~2hr|
-|📊 Estadística|Tema semana 2 _(a confirmar con el profe)_|~2hr|
-|🏗️ Braymar|Completar componentes post context-compaction|~8hr|
-|🚀 WeTech|Revisión técnica semanal con equipo|~3hr|
-|🧠 Obsidian|Diario diario + esta nota|~1hr/día|
+| Área                   | Foco principal                                | Carga est. |
+| ---------------------- | --------------------------------------------- | ---------- |
+| 📱 Apps Móviles        | Componentes básicos + StyleSheet (Semana 2)   | ~3hr       |
+| 💻 Sistemas Operativos | Gestión de procesos — PCB, estados (Semana 2) | ~3hr       |
+| 🧮 Cálculo 2           | Tema semana 2 _(a confirmar con el profe)_    | ~2hr       |
+| 📊 Estadística         | Tema semana 2 _(a confirmar con el profe)_    | ~2hr       |
+| 🏗️ Braymar            | Completar componentes post context-compaction | ~8hr       |
+| 🚀 WeTech              | Revisión técnica semanal con equipo           | ~3hr       |
+| 🧠 Obsidian            | Diario diario + esta nota                     | ~1hr/día   |
 
 **Total estimado:** ~28hr en 7 días — manejable si Braymar no tiene blockers.
 
