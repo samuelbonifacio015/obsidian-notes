@@ -15,7 +15,8 @@
       "Bash(for f:*)",
       "Bash(do mv:*)",
       "Bash(done)",
-      "Bash(rm -rf samuel-context/samuel-content samuel-context/samuel-context)"
+      "Bash(rm -rf samuel-context/samuel-content samuel-context/samuel-context)",
+      "Bash(npx skills:*)"
     ]
   }
 }
