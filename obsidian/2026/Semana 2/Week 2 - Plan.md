@@ -44,10 +44,10 @@
 
 **Tareas:**
 
-- [ ] Asistir a clase y tomar apuntes
+- [x] Asistir a clase y tomar apuntes
 - [ ] Crear nota `apuntes-movil-s2.md` en Obsidian con el tema visto
-- [ ] Hacer el ejercicio/práctica que dejen
-- [ ] Confirmar si usan React Native o Flutter y actualizar este plan
+- [x] Hacer el ejercicio/práctica que dejen
+- [x] Confirmar si usan React Native o Flutter y actualizar este plan
 
 ---
 
@@ -70,10 +70,10 @@
 
 **Tareas:**
 
-- [ ] Asistir a clase
+- [x] Asistir a clase
 - [ ] Leer cap. 4 de OSTEP antes o después de clase
 - [ ] Crear nota `apuntes-so-s2.md` con el diagrama de estados del proceso
-- [ ] Hacer ejercicios de práctica si dejan
+- [x] Hacer ejercicios de práctica si dejan
 
 ---
 
@@ -83,16 +83,16 @@
 
 **NotebookLM — acción esta semana:**
 
-- [ ] Abrir [NotebookLM](https://notebooklm.google.com/)
-- [ ] Crear notebook: `UPC | Cálculo 2 | Semana 2 — [Tema]`
-- [ ] Subir: slides del profe + apuntes Obsidian de semana 1 (si los tienes)
-- [ ] Verificar que el chat del notebook responde bien preguntas del tema
+- [x] Abrir [NotebookLM](https://notebooklm.google.com/)
+- [x] Crear notebook: `UPC | Cálculo 2 | Semana 2 — [Tema]`
+- [x] Subir: slides del profe + apuntes Obsidian de semana 1 (si los tienes)
+- [x] Verificar que el chat del notebook responde bien preguntas del tema
 
 **Tareas académicas:**
 
-- [ ] Asistir a clase
-- [ ] Resolver ejercicios del tema _(mínimo los del libro/slides)_
-- [ ] Subir apuntes a Obsidian y al notebook de NotebookLM
+- [x] Asistir a clase
+- [x] Resolver ejercicios del tema _(mínimo los del libro/slides)_
+- [x] Subir apuntes a Obsidian y al notebook de NotebookLM
 
 ---
 

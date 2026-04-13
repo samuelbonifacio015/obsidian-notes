@@ -7,11 +7,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🔵",
       "🐦",
       "🟢",
       "🔴",
-      "💸",
-      "📚"
+      "💸"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "2026/Gastos & Finanzas": "💸",
   "2026/Semana 1": "🔴",
   "2026/Semana 2": "🟢",
-  "2026/Semana 2/samuel-context": "🐦"
+  "2026/Semana 2/samuel-context": "🐦",
+  "2026/Semana 3": "🔵"
 }
