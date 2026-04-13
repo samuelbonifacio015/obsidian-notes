@@ -11,14 +11,12 @@
             "id": "b9a66ad606ce4fdd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Universidad/Estadistica/Apuntes/Tipos de Variables.md",
-                "mode": "source",
-                "source": false
+                "file": "Universidad/Estadistica/Cuaderno/ma642_cuaderno_de_trabajo_2026.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Tipos de Variables"
+              "icon": "lucide-file-text",
+              "title": "ma642_cuaderno_de_trabajo_2026"
             }
           }
         ]
@@ -197,10 +195,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf95f1f8121ee291",
+  "active": "b9a66ad606ce4fdd",
   "lastOpenFiles": [
-    "Universidad/Estadistica/Apuntes/Representación gŕafica de variables cualitativas.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "Universidad/Estadistica/Cuaderno/ma642_cuaderno_de_trabajo_2026.pdf",
     "Universidad/Estadistica/Apuntes/Tipos de Variables.md",
+    "Universidad/Estadistica/Cuaderno",
+    "Universidad/Estadistica/Apuntes/Representación gŕafica de variables cualitativas.md",
     "Universidad/Estadistica/Apuntes",
     "2026/Semana 3/Lun, Apr 13 - Todo List.md",
     "Universidad/Estadistica",
@@ -222,12 +226,10 @@
     "Universidad/Calculo/Material de Clase/MA263 Sesión 1.1 Planos y superficies cuádricas incompletas.pdf",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_wvemowwvemowwvem.png",
     "2026/Semanas (Antiguo)/Semana 5 (Vacaciones)/Weekly PLAN.md",
-    "Universidad/Calculo/SKILL",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_mvdtxomvdtxomvdt.png",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png",
     "Visión Personal.md",
     "Excalidraw/Drawing 2026-04-01 20.27.58.excalidraw.md",
-    "Universidad/Calculo/Material de Clase/UNIDAD 1 Geometría del espacio_Superficies cuádricas completas. Curvas en el espacio.pdf",
     "Universidad/Calculo/Apuntes/Gemini_Generated_Image_wvemowwvemowwvem.png",
     "2026/Daily/2026-04-08.md",
     "2026/Weekly Summary/Templates/Weekly Plan Template.md",
@@ -236,9 +238,6 @@
     "2026/Semana 2/samuel-context/modes/weekly.md",
     "2026/Semana 2/samuel-context/modes/tecnico.md",
     "2026/Semana 2/samuel-context/modes/tareas.md",
-    "2026/Semana 2/samuel-context/modes/obsidian-nota.md",
-    "2026/Semana 2/samuel-context/modes/apuntes.md",
-    "2026/Semana 2/samuel-context/modes/consejo.md",
-    "2026/Semana 2/samuel-context/SKILL.md"
+    "2026/Semana 2/samuel-context/modes/obsidian-nota.md"
   ]
 }
