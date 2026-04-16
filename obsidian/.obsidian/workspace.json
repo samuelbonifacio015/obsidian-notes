@@ -4,19 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0a2cbbc809802a4a",
+        "id": "0209531165105e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a66ad606ce4fdd",
+            "id": "9ee6802e52ca0e45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026/Abril/Plan_Mensual.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan_Mensual"
+            }
+          }
+        ]
+      },
+      {
+        "id": "68b868021c5dc6bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63877aae4f6820a4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Universidad/Estadistica/Cuaderno/ma642_cuaderno_de_trabajo_2026.pdf"
+                "file": "2026/Abril/Plan mensual Inicio lunes (a4).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ma642_cuaderno_de_trabajo_2026"
+              "title": "Plan mensual Inicio lunes (a4)"
             }
           }
         ]
@@ -42,7 +62,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -182,62 +202,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "bases:Crear nueva base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9a66ad606ce4fdd",
+  "active": "63877aae4f6820a4",
   "lastOpenFiles": [
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "2026/Abril/Plan_Mensual.md",
+    "2026/Abril/Plan mensual Inicio lunes (a4).pdf",
+    "2026/Abril",
+    "Universidad/Calculo/Material de Clase/MA263 Sesión 1.2 Superficies cuádricas completas. Curvas.pdf",
+    "Universidad/Calculo/Apuntes/Repaso CV1.md",
     "Universidad/Estadistica/Cuaderno/ma642_cuaderno_de_trabajo_2026.pdf",
     "Universidad/Estadistica/Apuntes/Tipos de Variables.md",
-    "Universidad/Estadistica/Cuaderno",
     "Universidad/Estadistica/Apuntes/Representación gŕafica de variables cualitativas.md",
+    "Universidad/Estadistica/Cuaderno",
     "Universidad/Estadistica/Apuntes",
-    "2026/Semana 3/Lun, Apr 13 - Todo List.md",
     "Universidad/Estadistica",
     "2026/Semana 3/Week 3 - Plan.md",
-    "2026/Semana 2/Week 2 - Summary.md",
-    "2026/Semana 2/Week 2 - Plan.md",
-    "2026/Semana 1/Week Summary.md",
+    "2026/Semana 3/Lun, Apr 13 - Todo List.md",
     "2026/Semana 3",
-    "Untitled",
+    "2026/Semana 2/Week 2 - Summary.md",
+    "Pasted image 20260412201203.png",
+    "Universidad/Calculo/Material de Clase/MA263 Sesión 1.2 Lista de ejercicios 1.2.pdf",
+    "Universidad/Calculo/Material de Clase/MA263 Sesión 1.1 Planos y superficies cuádricas incompletas.pdf",
+    "Pasted image 20260412163059.png",
+    "Pasted image 20260412163054.png",
+    "Universidad/Calculo/Apuntes/Analisis Calculo.md",
+    "Pasted image 20260412162936.png",
+    "Universidad/Calculo/Fotos/Gemini_Generated_Image_mvdtxomvdtxomvdt.png",
+    "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png",
     "Universidad/Aplicaciones Moviles/Idea/QueueSense - Cores.md",
     "Pasted image 20260409212751.png",
     "Pasted image 20260409212742.png",
     "Universidad/Aplicaciones Moviles/Idea/QueueSense.md",
-    "Universidad/Aplicaciones Moviles/Idea/QueueSense_MVP.pdf",
-    "Universidad/Calculo/Apuntes/Analisis Calculo.md",
     "Universidad/Calculo/SKILL/SKILL.md",
-    "Universidad/Aplicaciones Moviles/Idea",
-    "Recording 20260409211238.m4a",
-    "Universidad/Calculo/Material de Clase/MA263 Sesión 1.1 Planos y superficies cuádricas incompletas.pdf",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_wvemowwvemowwvem.png",
     "2026/Semanas (Antiguo)/Semana 5 (Vacaciones)/Weekly PLAN.md",
-    "Universidad/Calculo/Fotos/Gemini_Generated_Image_mvdtxomvdtxomvdt.png",
-    "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png",
     "Visión Personal.md",
     "Excalidraw/Drawing 2026-04-01 20.27.58.excalidraw.md",
     "Universidad/Calculo/Apuntes/Gemini_Generated_Image_wvemowwvemowwvem.png",
     "2026/Daily/2026-04-08.md",
     "2026/Weekly Summary/Templates/Weekly Plan Template.md",
+    "2026/Semana 2/Week 2 - Plan.md",
     "Universidad/Aplicaciones Moviles/Kanban.md",
     "2026/Semana 2/samuel-context/samuel-context/modes/obsidian-nota.md",
     "2026/Semana 2/samuel-context/modes/weekly.md",
     "2026/Semana 2/samuel-context/modes/tecnico.md",
     "2026/Semana 2/samuel-context/modes/tareas.md",
-    "2026/Semana 2/samuel-context/modes/obsidian-nota.md"
+    "2026/Semana 2/samuel-context/modes/obsidian-nota.md",
+    "2026/Semana 2/samuel-context/modes/apuntes.md",
+    "2026/Semana 2/samuel-context/modes/consejo.md"
   ]
 }
