@@ -16,7 +16,9 @@
       "Bash(do mv:*)",
       "Bash(done)",
       "Bash(rm -rf samuel-context/samuel-content samuel-context/samuel-context)",
-      "Bash(npx skills:*)"
+      "Bash(npx skills:*)",
+      "Bash(claude plugin *)",
+      "Skill(update-config)"
     ]
   }
 }
