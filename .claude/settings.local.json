@@ -18,7 +18,9 @@
       "Bash(rm -rf samuel-context/samuel-content samuel-context/samuel-context)",
       "Bash(npx skills:*)",
       "Bash(claude plugin *)",
-      "Skill(update-config)"
+      "Skill(update-config)",
+      "Bash(git pull *)",
+      "Bash(git stash *)"
     ]
   }
 }
