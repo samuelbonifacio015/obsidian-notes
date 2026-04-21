@@ -27,11 +27,11 @@ energia_target: 4/5
 
 ## 🔥 Must-do (non-negotiable)
 
-- [ ] 📊 **DD1 Estadística Aplicada** — completar y entregar antes del vencimiento
+- [x] 📊 **DD1 Estadística Aplicada** — completar y entregar antes del vencimiento
 - [x] 🧮 **CV2 Cálculo 2** — estudiar y rendir (regla de la cadena + derivadas implícitas)
-- [ ] 🔍 **Auditoría LinkedIn con Claude** — perfil, headline, about, proyectos revisados
+- [x] 🔍 **Auditoría LinkedIn con Claude** — perfil, headline, about, proyectos revisados
 - [ ] 📱 **Repo Kotlin guardado** — repositorio de práctica de clase commiteado en GitHub
-- [ ] 📝 **Apuntes Estadística en Obsidian** — nota `apuntes-estadistica-s3.md` creada
+- [x] 📝 **Apuntes Estadística en Obsidian** — nota `apuntes-estadistica-s3.md` creada
 
 ---
 

@@ -11,12 +11,15 @@
 
 ---
 
+## ✅ También completado
+
+- [x] 📊 **DD1 Estadística Aplicada** — entregado ✓
+- [x] 🔍 **Auditoría LinkedIn con Claude** — perfil, headline, about, proyectos revisados ✓
+- [x] 📝 **Apuntes Estadística en Obsidian** — nota `apuntes-estadistica-s3.md` creada ✓
+
 ## ❌ Pendiente / No completado
 
-- [ ] 📊 **DD1 Estadística Aplicada** — completar y entregar antes del vencimiento
-- [ ] 🔍 **Auditoría LinkedIn con Claude** — perfil, headline, about, proyectos revisados
 - [ ] 📱 **Repo Kotlin guardado** — repositorio de práctica de clase commiteado en GitHub
-- [ ] 📝 **Apuntes Estadística en Obsidian** — nota `apuntes-estadistica-s3.md` creada *(se crearon notas de Tipos de Variables y gráficos cualitativos — revisa si esto cubre el ítem)*
 
 ---
 
