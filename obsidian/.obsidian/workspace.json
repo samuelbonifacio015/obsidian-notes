@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Semana 4/Tuesday-Plan-W4.md",
+                "file": "2026/Semana 4/miercoles-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tuesday-Plan-W4"
+              "title": "miercoles-summary"
             }
           }
         ],
@@ -228,11 +228,20 @@
   },
   "active": "56c46663cb79038c",
   "lastOpenFiles": [
+    "2026/Semana 4/miercoles-checkin.md",
+    "2026/Semana 4/miercoles-summary.md",
+    "2026/skills/daily-checkin/references/preguntas.md.md",
+    "2026/skills/daily-checkin/references/plantilla.md.md",
+    "2026/skills/daily-checkin/SKILL.md.md",
+    "2026/skills/daily-checkin/references",
+    "2026/Semana 4/Tuesday-Plan-W4.md",
+    "2026/skills/daily-checkin",
+    "2026/skills/daily-checkin.skill",
+    "2026/skills",
+    "conflict-files-obsidian-git.md",
     "2026/Semana 4/SKILL.md",
     "2026/Semana 3/Week 3 - Plan.md",
-    "2026/Semana 4/Tuesday-Plan-W4.md",
     "2026/Semana 4",
-    "conflict-files-obsidian-git.md",
     "2026/Semana 3/summary week 3.md",
     "2026/Abril/Plan_Mensual.md",
     "2026/Abril/Plan mensual Inicio lunes (a4).pdf",
@@ -253,26 +262,17 @@
     "Universidad/Estadistica/Cuaderno",
     "Universidad/Estadistica/Apuntes",
     "2026/Semana 3/Lun, Apr 13 - Todo List.md",
-    "Universidad/Estadistica",
     "2026/Semana 2/Week 2 - Summary.md",
     "2026/Semana 2/Week 2 - Plan.md",
     "2026/Semana 1/Week Summary.md",
-    "2026/Semana 3",
-    "Untitled",
     "Universidad/Aplicaciones Moviles/Idea/QueueSense - Cores.md",
     "Pasted image 20260409212751.png",
     "Pasted image 20260409212742.png",
     "Universidad/Aplicaciones Moviles/Idea/QueueSense.md",
-    "Universidad/Aplicaciones Moviles/Idea/QueueSense_MVP.pdf",
     "Universidad/Calculo/Apuntes/Analisis Calculo.md",
     "Universidad/Calculo/SKILL/SKILL.md",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_wvemowwvemowwvem.png",
-    "2026/Semanas (Antiguo)/Semana 5 (Vacaciones)/Weekly PLAN.md",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_mvdtxomvdtxomvdt.png",
-    "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png",
-    "Visión Personal.md",
-    "Excalidraw/Drawing 2026-04-01 20.27.58.excalidraw.md",
-    "2026/Daily/2026-04-08.md",
-    "2026/Weekly Summary/Templates/Weekly Plan Template.md"
+    "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png"
   ]
 }
