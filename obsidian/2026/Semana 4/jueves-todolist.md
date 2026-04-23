@@ -12,7 +12,7 @@ fecha: 2026-04-23
 
 ## Top 3
 
-- [ ] Actualizar y hacer el merge completo entre ramas para QRust Org. 
+- [x] Actualizar y hacer el merge completo entre ramas para QRust Org. 
 - [ ] Completar desde 2.6.1.5 (Bounded Contexts de Promotions & Favorites)
 - [ ] Estudio de Calculo II
 
@@ -31,3 +31,4 @@ fecha: 2026-04-23
 ## Cierre
 
 - [ ] Revisar qué quedó pendiente para mañana
+Hoy avancé [[miercoles-checkin]]y revisé [[miercoles-summary]]

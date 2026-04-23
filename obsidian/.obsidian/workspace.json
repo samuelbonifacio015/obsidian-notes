@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Semana 4/jueves-todolist.md",
+                "file": "2026/Semana 4/jueves-todoreviewer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jueves-todolist"
+              "title": "jueves-todoreviewer"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "b44796f1c4b10094",
   "lastOpenFiles": [
-    "2026/Semana 4/miercoles-summary.md",
     "2026/Semana 4/jueves-todolist.md",
+    "2026/Semana 4/jueves-todoreviewer.md",
+    "2026/Semana 4/miercoles-summary.md",
     "2026/Semana 4/SKILL.md",
     "2026/Semana 4/Tuesday-Plan-W4.md",
     "2026/Semana 4/miercoles-checkin.md",
@@ -241,7 +242,6 @@
     "Universidad/Aplicaciones Moviles/Idea/QueueSense - Cores.md",
     "Pasted image 20260409212751.png",
     "Pasted image 20260409212742.png",
-    "Universidad/Aplicaciones Moviles/Idea/QueueSense.md",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_wvemowwvemowwvem.png",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_mvdtxomvdtxomvdt.png",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png"
