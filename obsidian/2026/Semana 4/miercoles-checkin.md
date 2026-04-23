@@ -101,9 +101,11 @@ _🐒 Nota: Hoy Miércoles 22 de abril:
 - Desarrollado 3 pantallas para MJYS
 - Depurar endpoint /auth/login
 - Set de base de datos Prisma/Next Auth
+- Actualizar repositorios de Apps Moviles
+- Actualizar ramas de Apps Móviles
   
 🐒 **Pendiente:**
 * Frontend y 5 pantallas restantes de MJYS
 * Estudiar Calculo II (EU1)
 * MVP, PRD de MJYS
-* Video Prueba de MJYS
+* ~~Video de MJYS
