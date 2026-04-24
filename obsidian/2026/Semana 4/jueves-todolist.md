@@ -26,9 +26,10 @@ fecha: 2026-04-23
 
 ## Personal
 
-- [ ] Actualización de Obisidan
+- [x] Actualización de Obisidan
 
 ## Cierre
 
 - [ ] Revisar qué quedó pendiente para mañana
+
 Hoy avancé [[miercoles-checkin]]y revisé [[miercoles-summary]]
