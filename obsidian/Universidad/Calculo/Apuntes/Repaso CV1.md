@@ -1,4 +1,4 @@
-1
+
 ### Ecuaciones y sus formas
 ![[Pasted image 20260412163059.png]]
 

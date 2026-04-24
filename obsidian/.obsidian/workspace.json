@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universidad/Calculo/Apuntes/Repaso CV1.md",
+                "file": "2026/skills/daily-summary/references/plantilla-summary.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repaso CV1"
+              "title": "plantilla-summary.md"
             }
           }
         ]
@@ -220,6 +220,17 @@
   },
   "active": "b44796f1c4b10094",
   "lastOpenFiles": [
+    "2026/skills/daily-summary/SKILL.md.md",
+    "2026/skills/daily-summary/references/plantilla-summary.md.md",
+    "2026/skills/daily-summary/references",
+    "2026/Semana 4/jueves-summary.md",
+    "2026/skills/daily-summary",
+    "2026/Semana 4/miercoles-summary.md",
+    "2026/Semana 4/jueves-checkin.md",
+    "2026/Semana 4/miercoles-checkin.md",
+    "2026/Semana 4/jueves-todoreviewer.md",
+    "2026/Semana 4/jueves-todolist.md",
+    "2026/Semana 4/SKILL.md",
     "Universidad/Calculo/Apuntes/Repaso CV1.md",
     "copilot/copilot-conversations/analize_2026Semana_4_this_folder_attached_at_maxium_detail@20260423_090602.md",
     "copilot/copilot-conversations",
@@ -227,12 +238,7 @@
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png",
     "Universidad/Calculo/Apuntes/Analisis Calculo.md",
     "Universidad/Calculo/Material de Clase/MA263 Sesión 1.2 Lista de ejercicios 1.2.pdf",
-    "2026/Semana 4/jueves-todolist.md",
-    "2026/Semana 4/jueves-todoreviewer.md",
-    "2026/Semana 4/miercoles-summary.md",
-    "2026/Semana 4/SKILL.md",
     "2026/Semana 4/Tuesday-Plan-W4.md",
-    "2026/Semana 4/miercoles-checkin.md",
     "2026-04-22.md",
     "2026/skills/daily-checkin/references/preguntas.md.md",
     "2026/skills/daily-checkin/references/plantilla.md.md",
@@ -245,11 +251,8 @@
     "2026/Semana 4",
     "2026/Semana 3/summary week 3.md",
     "2026/Abril/Plan_Mensual.md",
-    "2026/Abril/Plan mensual Inicio lunes (a4).pdf",
-    "2026/Abril",
     "Universidad/Estadistica/Apuntes/Representación gŕafica de variables cualitativas.md",
     "Universidad/Estadistica/Apuntes/Tipos de Variables.md",
-    "Universidad/Estadistica/Cuaderno/ma642_cuaderno_de_trabajo_2026.pdf",
     "Pasted image 20260413183557.png",
     "Pasted image 20260412201203.png",
     "Pasted image 20260412163059.png",
@@ -259,16 +262,9 @@
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "Universidad/Estadistica/Cuaderno",
-    "2026/Semana 3/Lun, Apr 13 - Todo List.md",
-    "2026/Semana 2/Week 2 - Summary.md",
-    "2026/Semana 2/Week 2 - Plan.md",
-    "2026/Semana 1/Week Summary.md",
-    "Universidad/Aplicaciones Moviles/Idea/QueueSense - Cores.md",
     "Pasted image 20260409212751.png",
     "Pasted image 20260409212742.png",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_wvemowwvemowwvem.png",
-    "Universidad/Calculo/Fotos/Gemini_Generated_Image_mvdtxomvdtxomvdt.png",
-    "Universidad/Aplicaciones Moviles/Idea/QueueSense.md"
+    "Universidad/Calculo/Fotos/Gemini_Generated_Image_mvdtxomvdtxomvdt.png"
   ]
 }
