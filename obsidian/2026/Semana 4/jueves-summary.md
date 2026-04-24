@@ -37,8 +37,8 @@ Jueves con foco académico: repaso completo de la Unidad 1 de Cálculo 2 como pr
 
 - [ ] Frontend y 5 pantallas restantes de MJYS
 - [ ] MVP y PRD de MJYS
-- [ ] Video de MJYS
-- [ ] Aplicaciones Móviles — sin actividad hoy
+- [x] Video de MJYS
+- [x] Aplicaciones Móviles — sin actividad hoy
 - [ ] WeTech / WeRide — retomar cuando salga de pausa
 
 ---

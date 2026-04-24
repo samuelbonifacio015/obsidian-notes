@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/skills/daily-summary/references/plantilla-summary.md.md",
+                "file": "2026/Semana 4/jueves-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantilla-summary.md"
+              "title": "jueves-summary"
             }
           }
         ]
@@ -220,15 +220,16 @@
   },
   "active": "b44796f1c4b10094",
   "lastOpenFiles": [
-    "2026/skills/daily-summary/SKILL.md.md",
+    "2026/Semana 4/jueves-todoreviewer.md",
+    "2026/Semana 4/viernes-todolist.md",
     "2026/skills/daily-summary/references/plantilla-summary.md.md",
+    "2026/skills/daily-summary/SKILL.md.md",
     "2026/skills/daily-summary/references",
     "2026/Semana 4/jueves-summary.md",
     "2026/skills/daily-summary",
     "2026/Semana 4/miercoles-summary.md",
     "2026/Semana 4/jueves-checkin.md",
     "2026/Semana 4/miercoles-checkin.md",
-    "2026/Semana 4/jueves-todoreviewer.md",
     "2026/Semana 4/jueves-todolist.md",
     "2026/Semana 4/SKILL.md",
     "Universidad/Calculo/Apuntes/Repaso CV1.md",
@@ -261,7 +262,6 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "Pasted image 20260409212751.png",
     "Pasted image 20260409212742.png",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_wvemowwvemowwvem.png",
