@@ -26,20 +26,23 @@ score: {{SCORE}}/10
 - [{{AC_03}}] **Estadística Aplicada** — {{AC_03_DETALLE}}
 - [{{AC_04}}] **Sistemas Operativos** — {{AC_04_DETALLE}}
 - [{{AC_05}}] **Aplicaciones Móviles** — {{AC_05_DETALLE}}
+- [{{AC_06}}] **Entregas / exámenes próximos** — {{AC_06_DETALLE}}
 
 ---
 
 ## 🛠️ Proyectos
 
-- [{{PR_01}}] **Braymar** — {{PR_01_DETALLE}}
+- [{{PR_01}}] **Proyecto principal actual** — {{PR_01_DETALLE}}
 - [{{PR_02}}] **WeTech / WeRide** — {{PR_02_DETALLE}}
 - [{{PR_03}}] **Listalico** — {{PR_03_DETALLE}}
+- [{{PR_04}}] **Proyecto nuevo / puntual** — {{PR_04_DETALLE}}
 
 ---
 
 ## 🤖 IA & Dev
 
 - [{{AI_01}}] **Claude Code** — {{AI_01_DETALLE}}
+- [{{AI_02}}] **Ollama / modelo local** — {{AI_02_DETALLE}}
 - [{{AI_03}}] **Aprendizaje técnico** — {{AI_03_DETALLE}}
 - [{{AI_04}}] **Módulos JS/TS** — {{AI_04_DETALLE}}
 
@@ -49,6 +52,7 @@ score: {{SCORE}}/10
 
 - [{{PD_01}}] **Diario Obsidian** — {{PD_01_DETALLE}}
 - [{{PD_02}}] **Notas Obsidian** — {{PD_02_DETALLE}}
+- [{{PD_03}}] **Plan semanal** — {{PD_03_DETALLE}}
 - [{{PD_04}}] **Somnolencia post-almuerzo** — {{PD_04_DETALLE}}
 
 ---
@@ -57,6 +61,8 @@ score: {{SCORE}}/10
 
 - [{{CA_01}}] **LinkedIn** — {{CA_01_DETALLE}}
 - [{{CA_02}}] **Contenido / Speaker** — {{CA_02_DETALLE}}
+- [{{CA_03}}] **Networking** — {{CA_03_DETALLE}}
+- [{{CA_04}}] **Aspiración speaker** — {{CA_04_DETALLE}}
 
 ---
 
@@ -64,6 +70,7 @@ score: {{SCORE}}/10
 
 - [{{PE_01}}] **Ejercicio** — {{PE_01_DETALLE}}
 - [{{PE_02}}] **Sueño** — {{PE_02_DETALLE}}
+- [{{PE_03}}] **Bloqueo emocional / mental** — {{PE_03_DETALLE}}
 
 ---
 
@@ -102,6 +109,10 @@ Score 3/10 → ███░░░░░░░ 3/10
 **Checkboxes** → usa `x` si completado, ` ` (espacio) si no:
 - `[x]` = hecho
 - `[ ]` = no hecho / sin actividad
+
+**Preguntas semanales / puntuales** → incluir solo si aplican según `preguntas.md.md`:
+- `semanal`: solo lunes, salvo que Samuel dé contexto explícito.
+- `puntual`: incluir mientras `activa: true`.
 
 **{{MOOD_TAG}}** → infiere uno de:
 - `dia/productivo` — score ≥ 7 y varios proyectos tocados

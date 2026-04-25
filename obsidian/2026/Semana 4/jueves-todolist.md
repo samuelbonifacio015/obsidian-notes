@@ -13,16 +13,16 @@ fecha: 2026-04-23
 ## Top 3
 
 - [x] Actualizar y hacer el merge completo entre ramas para QRust Org. 
-- [ ] Completar desde 2.6.1.5 (Bounded Contexts de Promotions & Favorites)
-- [ ] Estudio de Calculo II
+- [x] Completar desde 2.6.1.5 (Bounded Contexts de Promotions & Favorites)
+- [x] Estudio de Calculo II
 
 ## Universidad
 
-- [ ] Calculo II Módulos (PDFS)
+- [x] Calculo II Módulos (PDFS)
 
 ## Proyectos
 
-- [ ] Avance mínimo de MJYS
+- [x] Avance mínimo de MJYS
 
 ## Personal
 
@@ -30,6 +30,6 @@ fecha: 2026-04-23
 
 ## Cierre
 
-- [ ] Revisar qué quedó pendiente para mañana
+- [x] Revisar qué quedó pendiente para mañana
 
 Hoy avancé [[miercoles-checkin]]y revisé [[miercoles-summary]]

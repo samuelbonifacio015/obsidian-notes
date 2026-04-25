@@ -12,24 +12,24 @@ fecha: 2026-04-24
 
 ## Top 3
 
-- [ ] Terminar TB1 (QRust)
-- [ ] Merge de ramas con éxito
-- [ ] Exposición de Proyecto (QRust)
+- [x] Terminar TB1 (QRust)
+- [x] Merge de ramas con éxito
+- [x] Exposición de Proyecto (QRust)
 
 ## Universidad
 
-- [ ] Envío y Sustentación de proyecto (QRust - Klippr)
+- [x] Envío y Sustentación de proyecto (QRust - Klippr)
 
 ## Proyectos
 
-- [ ] Avance de Maquinarias JyS (ultimas 2 pantallas)
+- [x] Avance de Maquinarias JyS (ultimas 2 pantallas)
 
 ## Personal
 
-- [ ] Sincronización y review de Obsidian. 
+- [x] Sincronización y review de Obsidian. 
 
 ## Cierre
 
-- [ ] Revisar qué quedó pendiente para mañana
+- [x] Revisar qué quedó pendiente para mañana
 
-Hoy avancé [[jueves-checkin]] y revisé [[jueves-summary]]
+Hoy avancé [[viernes-checkin]] y revisé [[viernes-summary]]
