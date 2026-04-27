@@ -11,14 +11,14 @@
             "id": "b44796f1c4b10094",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "2026/Semana 4/viernes-checkin.md",
-                "mode": "source",
-                "source": false
+                "aFile": "obsidian/copilot/copilot-custom-prompts/Make longer.md",
+                "bFile": "obsidian/copilot/copilot-custom-prompts/Make longer.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "viernes-checkin"
+              "icon": "diff",
+              "title": "Diff: Make longer  (Working Tree)"
             }
           }
         ]
@@ -240,18 +240,22 @@
   },
   "active": "b44796f1c4b10094",
   "lastOpenFiles": [
-    "2026/Semana 4/viernes-summary.md",
+    "2026/skills/daily-checkin/references/plantilla.md.md",
+    "2026/skills/daily-checkin/references/preguntas.md.md",
+    "2026/skills/daily-summary/references/plantilla-summary.md.md",
+    "2026/skills/daily-checkin/SKILL.md.md",
     "2026/Semana 4/viernes-checkin.md",
+    "2026/Semana 4/sabado-todolist.md",
+    "2026/Semana 4/miercoles-checkin.md",
+    "2026/Semana 4/viernes-summary.md",
     "2026/Semana 4/jueves-checkin.md",
     "2026/Semana 4/Tuesday-Plan-W4.md",
-    "2026/Semana 4/miercoles-checkin.md",
     "2026/Semana 4/miercoles-summary.md",
     "2026/Semana 4/viernes-todoreviewer.md",
     "2026/Semana 4/viernes-todolist.md",
     "2026/Semana 4/jueves-summary.md",
     "2026/Semana 4/jueves-todolist.md",
     "2026/Semana 4/jueves-todoreviewer.md",
-    "2026/skills/daily-summary/references/plantilla-summary.md.md",
     "2026/skills/daily-summary/SKILL.md.md",
     "2026/skills/daily-summary/references",
     "2026/skills/daily-summary",
@@ -264,9 +268,6 @@
     "Universidad/Calculo/Apuntes/Analisis Calculo.md",
     "Universidad/Calculo/Material de Clase/MA263 Sesión 1.2 Lista de ejercicios 1.2.pdf",
     "2026-04-22.md",
-    "2026/skills/daily-checkin/references/preguntas.md.md",
-    "2026/skills/daily-checkin/references/plantilla.md.md",
-    "2026/skills/daily-checkin/SKILL.md.md",
     "2026/skills/daily-checkin/references",
     "2026/skills/daily-checkin",
     "2026/skills/daily-checkin.skill",
@@ -276,7 +277,6 @@
     "2026/Semana 3/summary week 3.md",
     "2026/Abril/Plan_Mensual.md",
     "Universidad/Estadistica/Apuntes/Representación gŕafica de variables cualitativas.md",
-    "Universidad/Estadistica/Apuntes/Tipos de Variables.md",
     "Pasted image 20260413183557.png",
     "Pasted image 20260412201203.png",
     "Pasted image 20260412163059.png",

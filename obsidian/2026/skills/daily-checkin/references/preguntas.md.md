@@ -54,19 +54,19 @@
 
 ```yaml
 - id: pr-01
-  pregunta: "¿Tocaste Braymar hoy?"
+  pregunta: "¿Tocaste MaquinariasJyS hoy?"
   followup: "¿Qué componente o feature? ¿Fue código, diseño, o Supabase?"
   frecuencia: diaria
   activa: true
 
 - id: pr-02
-  pregunta: "¿Avanzaste algo de WeTech / WeRide?"
-  followup: "¿Backend, frontend, o algo de producto/equipo?"
+  pregunta: "¿Algún feature nuevo para Klippr?"
+  followup: "¿Backend, frontend, landing page?"
   frecuencia: diaria
   activa: true
 
 - id: pr-03
-  pregunta: "¿Hiciste algo con Listalico?"
+  pregunta: "¿Hiciste algo con tu porfolio?"
   followup: "¿Fix, feature, o solo revisaste?"
   frecuencia: semanal
   activa: true
@@ -85,7 +85,7 @@
 ```yaml
 - id: ai-01
   pregunta: "¿Usaste Claude Code hoy en algún repo?"
-  followup: "¿En Braymar, WeTech, o algo personal?"
+  followup: "¿En qué proyecto?"
   frecuencia: diaria
   activa: true
 
@@ -102,7 +102,7 @@
   activa: true
 
 - id: ai-04
-  pregunta: "¿Avanzaste algún módulo o curso de JavaScript / TypeScript / framework?"
+  pregunta: "¿Avanzaste algún módulo o aprendizaje de IA?"
   followup: "¿Qué módulo? ¿De qué plataforma — YouTube, docs, curso?"
   frecuencia: diaria
   activa: true

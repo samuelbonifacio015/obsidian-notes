@@ -88,6 +88,7 @@ Marca con 🏆 logros excepcionales. Ejemplo:
 
 **{{BARRA_VISUAL}}** → barra ASCII según score:
 ```
+Score 10/10 → ██████████ 10/10
 Score 8/10 → ████████░░ 8/10
 Score 6/10 → ██████░░░░ 6/10
 Score 4/10 → ████░░░░░░ 4/10

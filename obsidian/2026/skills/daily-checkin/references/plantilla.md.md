@@ -32,10 +32,9 @@ score: {{SCORE}}/10
 
 ## 🛠️ Proyectos
 
-- [{{PR_01}}] **Proyecto principal actual** — {{PR_01_DETALLE}}
-- [{{PR_02}}] **WeTech / WeRide** — {{PR_02_DETALLE}}
-- [{{PR_03}}] **Listalico** — {{PR_03_DETALLE}}
-- [{{PR_04}}] **Proyecto nuevo / puntual** — {{PR_04_DETALLE}}
+- [{{PR_01}}] **MaquinariasJyS** — {{PR_01_DETALLE}}
+- [{{PR_02}}] **Kliprr** — {{PR_02_DETALLE}}
+- [{{PR_03}}] **Proyecto nuevo / puntual** — {{PR_04_DETALLE}}
 
 ---
 
@@ -44,7 +43,6 @@ score: {{SCORE}}/10
 - [{{AI_01}}] **Claude Code** — {{AI_01_DETALLE}}
 - [{{AI_02}}] **Ollama / modelo local** — {{AI_02_DETALLE}}
 - [{{AI_03}}] **Aprendizaje técnico** — {{AI_03_DETALLE}}
-- [{{AI_04}}] **Módulos JS/TS** — {{AI_04_DETALLE}}
 
 ---
 
@@ -101,6 +99,7 @@ score: {{SCORE}}/10
 
 **{{BARRA_VISUAL}}** → genera una barra de progreso ASCII basada en el score:
 ```
+Score 10/10 → ██████████ 10/10
 Score 8/10 → ████████░░ 8/10
 Score 5/10 → █████░░░░░ 5/10
 Score 3/10 → ███░░░░░░░ 3/10

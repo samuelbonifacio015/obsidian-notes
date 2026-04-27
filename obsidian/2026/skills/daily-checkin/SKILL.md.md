@@ -66,7 +66,7 @@ Presenta en este orden (saltando categorías si no hay preguntas activas en ella
 
 ```
 1. 🎓 ACADÉMICO     (cursos UPC, tareas, entregas)
-2. 🛠️  PROYECTOS     (Braymar, WeTech, Listalico, FInovate)
+2. 🛠️  PROYECTOS     (MaquinariasJyS)
 3. 🤖 IA & DEV      (Claude Code, Ollama, experimentos técnicos)
 4. 📋 PRODUCTIVIDAD (Obsidian, journaling, planeación)
 5. 💼 CARRERA       (LinkedIn, CV, networking, ponencias)
