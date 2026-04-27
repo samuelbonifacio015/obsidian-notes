@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9d7395a51cc5d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b44796f1c4b10094",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "obsidian/copilot/copilot-custom-prompts/Make longer.md",
-                "bFile": "obsidian/copilot/copilot-custom-prompts/Make longer.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Make longer  (Working Tree)"
-            }
-          }
-        ]
-      },
-      {
         "id": "9f53eba3b248d86f",
         "type": "tabs",
         "children": [
@@ -33,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/Semana 4/jueves-checkin.md",
+                "file": "2026/Abril/Semana 4/jueves-checkin.md",
                 "mode": "source",
                 "source": false
               },
@@ -238,28 +218,28 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b44796f1c4b10094",
+  "active": "cf95f1f8121ee291",
   "lastOpenFiles": [
     "2026/skills/daily-checkin/references/plantilla.md.md",
     "2026/skills/daily-checkin/references/preguntas.md.md",
     "2026/skills/daily-summary/references/plantilla-summary.md.md",
     "2026/skills/daily-checkin/SKILL.md.md",
-    "2026/Semana 4/viernes-checkin.md",
-    "2026/Semana 4/sabado-todolist.md",
-    "2026/Semana 4/miercoles-checkin.md",
-    "2026/Semana 4/viernes-summary.md",
-    "2026/Semana 4/jueves-checkin.md",
-    "2026/Semana 4/Tuesday-Plan-W4.md",
-    "2026/Semana 4/miercoles-summary.md",
-    "2026/Semana 4/viernes-todoreviewer.md",
-    "2026/Semana 4/viernes-todolist.md",
-    "2026/Semana 4/jueves-summary.md",
-    "2026/Semana 4/jueves-todolist.md",
-    "2026/Semana 4/jueves-todoreviewer.md",
+    "2026/Abril/Semana 4/viernes-checkin.md",
+    "2026/Abril/Semana 4/sabado-todolist.md",
+    "2026/Abril/Semana 4/miercoles-checkin.md",
+    "2026/Abril/Semana 4/viernes-summary.md",
+    "2026/Abril/Semana 4/jueves-checkin.md",
+    "2026/Abril/Semana 4/Tuesday-Plan-W4.md",
+    "2026/Abril/Semana 4/miercoles-summary.md",
+    "2026/Abril/Semana 4/viernes-todoreviewer.md",
+    "2026/Abril/Semana 4/viernes-todolist.md",
+    "2026/Abril/Semana 4/jueves-summary.md",
+    "2026/Abril/Semana 4/jueves-todolist.md",
+    "2026/Abril/Semana 4/jueves-todoreviewer.md",
     "2026/skills/daily-summary/SKILL.md.md",
     "2026/skills/daily-summary/references",
     "2026/skills/daily-summary",
-    "2026/Semana 4/SKILL.md",
+    "2026/Abril/Semana 4/SKILL.md",
     "Universidad/Calculo/Apuntes/Repaso CV1.md",
     "copilot/copilot-conversations/analize_2026Semana_4_this_folder_attached_at_maxium_detail@20260423_090602.md",
     "copilot/copilot-conversations",
@@ -272,9 +252,9 @@
     "2026/skills/daily-checkin",
     "2026/skills/daily-checkin.skill",
     "2026/skills",
-    "2026/Semana 3/Week 3 - Plan.md",
-    "2026/Semana 4",
-    "2026/Semana 3/summary week 3.md",
+    "2026/Abril/Semana 3/Week 3 - Plan.md",
+    "2026/Abril/Semana 4",
+    "2026/Abril/Semana 3/summary week 3.md",
     "2026/Abril/Plan_Mensual.md",
     "Universidad/Estadistica/Apuntes/Representación gŕafica de variables cualitativas.md",
     "Pasted image 20260413183557.png",

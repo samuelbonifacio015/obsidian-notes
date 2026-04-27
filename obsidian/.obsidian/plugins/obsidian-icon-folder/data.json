@@ -37,11 +37,11 @@
   },
   "Universidad": "📚",
   "2026/Gastos & Finanzas": "💸",
-  "2026/Semana 1": "🔴",
-  "2026/Semana 2": "🟢",
-  "2026/Semana 2/samuel-context": "🐦",
-  "2026/Semana 3": "🔵",
   "2026/Abril": "🤍",
-  "2026/Semana 4": "🟣",
-  "2026/skills": "LiAlertCircle"
+  "2026/skills": "LiAlertCircle",
+  "2026/Abril/Semana 1": "🔴",
+  "2026/Abril/Semana 2": "🟢",
+  "2026/Abril/Semana 2/samuel-context": "🐦",
+  "2026/Abril/Semana 3": "🔵",
+  "2026/Abril/Semana 4": "🟣"
 }
