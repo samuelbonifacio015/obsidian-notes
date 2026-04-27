@@ -41,6 +41,11 @@ Antes de comenzar, lee obligatoriamente:
 También considera el contexto del mensaje de Samuel: si menciona que fue un día difícil, ocupado,
 o da detalles previos, incorpóralos sin volver a preguntar lo que ya dijo.
 
+El banco de preguntas puede incluir una sección `BANCO ALEATORIO / ROTATIVO` con preguntas
+marcadas como `frecuencia: aleatoria`. Esa sección existe para que los agentes de IA, especialmente
+Codex, generen variación entre check-ins: no deben hacer siempre las mismas preguntas ni recorrer
+todo el banco en orden.
+
 Detecta la **fecha actual** del sistema o del mensaje para usarla en el frontmatter de la nota.
 
 ---
@@ -52,13 +57,17 @@ Detecta la **fecha actual** del sistema o del mensaje para usarla en el frontmat
 1. **Agrupa las preguntas por categoría** — no las mezcles. Presenta una categoría a la vez.
 2. **Filtra por frecuencia** — solo haz preguntas con frecuencia `diaria` todos los días.
    Las de frecuencia `semanal` solo los lunes. Las de `puntual` siempre que estén activas.
-3. **Máximo 3-4 preguntas por mensaje** — no bombardees todo de golpe. Espera respuesta y continúa.
-4. **Adapta el follow-up** — si responde "sí avancé X", pregunta brevemente qué avanzó (una línea
+   Las de frecuencia `aleatoria` son complementarias: Codex debe elegir al azar 2-4 preguntas
+   activas por check-in, variando la selección día a día y priorizando el contexto reciente.
+3. **No conviertas el banco aleatorio en interrogatorio completo** — usa una muestra pequeña:
+   idealmente 1 pregunta académica, 1 de proyectos o IA/dev, y 1 de productividad/personal si aplica.
+4. **Máximo 3-4 preguntas por mensaje** — no bombardees todo de golpe. Espera respuesta y continúa.
+5. **Adapta el follow-up** — si responde "sí avancé X", pregunta brevemente qué avanzó (una línea
    basta). Si responde "no", no insistas — solo regístralo.
-5. **Tono:** directo y con carácter. Nada de "¡Genial! ¡Excelente respuesta!". Un simple
+6. **Tono:** directo y con carácter. Nada de "¡Genial! ¡Excelente respuesta!". Un simple
    `✓ anotado` o `registrado` alcanza. Si algo no se hizo varios días seguidos (si Samuel
    lo menciona), puedes lanzar una línea como `"Braymar lleva N días sin tocarse, ¿todo bien?"`.
-6. **Admite respuestas cortas:** sí / no / un poco / mañana / ni idea — todas son válidas.
+7. **Admite respuestas cortas:** sí / no / un poco / mañana / ni idea — todas son válidas.
 
 ### Orden de categorías
 
