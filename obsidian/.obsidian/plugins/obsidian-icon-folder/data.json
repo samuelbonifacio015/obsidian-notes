@@ -7,11 +7,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🟠",
       "LiAlertCircle",
       "🟣",
       "🤍",
-      "🔵",
-      "🐦"
+      "🔵"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "2026/Abril/Semana 2": "🟢",
   "2026/Abril/Semana 2/samuel-context": "🐦",
   "2026/Abril/Semana 3": "🔵",
-  "2026/Abril/Semana 4": "🟣"
+  "2026/Abril/Semana 4": "🟣",
+  "2026/Abril/Semana 5": "🟠"
 }

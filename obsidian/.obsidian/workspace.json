@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/skills/daily-checkin/references/preguntas.md",
+                "file": "2026/Abril/Semana 5/lunes-todolist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "preguntas"
+              "title": "lunes-todolist"
             }
           }
         ]
@@ -184,16 +184,6 @@
               "icon": "file-digit",
               "title": "Strange New Worlds"
             }
-          },
-          {
-            "id": "2b20e10ce30f9bef",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
         "currentTab": 5
@@ -220,6 +210,10 @@
   },
   "active": "93e302d59b42751f",
   "lastOpenFiles": [
+    "2026/Abril/Semana 4/domingo-todolist.md",
+    "2026/Abril/Semana 5/lunes-todolist.md",
+    "2026/Abril/Semana 5",
+    "2026/skills/daily-checkin/references/preguntas.md",
     "2026/Abril/Semana 4/sabado-checkin.md",
     "2026/Abril/Semana 4/viernes-checkin.md",
     "2026/Abril/Semana 4/Tuesday-Plan-W4.md",
@@ -227,7 +221,6 @@
     "2026/Abril/Semana 4/viernes-todoreviewer.md",
     "2026/Abril/Semana 4/sabado-summary.md",
     "2026/Abril/Semana 4/sabado-todoreviewer.md",
-    "2026/skills/daily-checkin/references/preguntas.md",
     "2026/skills/daily-checkin/references/plantilla.md",
     "2026/Abril/Semana 4/sabado-todolist.md",
     "2026/skills/daily-summary/SKILL.md",
@@ -250,13 +243,10 @@
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png",
     "Universidad/Calculo/Apuntes/Analisis Calculo.md",
     "Universidad/Calculo/Material de Clase/MA263 Sesión 1.2 Lista de ejercicios 1.2.pdf",
-    "2026-04-22.md",
     "2026/skills/daily-checkin/references",
     "2026/skills/daily-checkin",
     "2026/skills/daily-checkin.skill",
     "2026/skills",
-    "2026/Abril/Semana 3/Week 3 - Plan.md",
-    "2026/Abril/Semana 4",
     "Pasted image 20260413183557.png",
     "Pasted image 20260412201203.png",
     "Pasted image 20260412163059.png",
