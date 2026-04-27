@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f53eba3b248d86f",
+        "id": "5d2fddf6f3daffe0",
         "type": "tabs",
         "children": [
           {
-            "id": "93e302d59b42751f",
+            "id": "24f907c1feb74dbf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026/Abril/Semana 5/lunes-todolist.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lunes-todolist"
+              "title": "New tab"
             }
           }
         ]
@@ -208,10 +204,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "93e302d59b42751f",
+  "active": "7c258980ae6713cf",
   "lastOpenFiles": [
-    "2026/Abril/Semana 4/domingo-todolist.md",
+    "2026/Abril/Semana 5/week-tracker.md",
+    "2026/skills/week-tracker/references/template-week-tracker.md",
+    "2026/skills/week-tracker/references/extraction-rules.md",
+    "2026/skills/week-tracker/references/current-context-schema.md",
+    "2026/skills/week-tracker/SKILL.md",
     "2026/Abril/Semana 5/lunes-todolist.md",
+    "2026/skills/week-tracker/references",
+    "2026/skills/week-tracker",
+    "2026/Abril/Semana 4/domingo-todolist.md",
     "2026/Abril/Semana 5",
     "2026/skills/daily-checkin/references/preguntas.md",
     "2026/Abril/Semana 4/sabado-checkin.md",
@@ -232,21 +235,14 @@
     "2026/Abril/Semana 4/miercoles-summary.md",
     "2026/Abril/Semana 4/jueves-summary.md",
     "2026/Abril/Semana 4/jueves-todolist.md",
-    "2026/Abril/Semana 4/jueves-todoreviewer.md",
     "2026/skills/daily-summary/references",
     "2026/skills/daily-summary",
-    "2026/Abril/Semana 4/SKILL.md",
-    "Universidad/Calculo/Apuntes/Repaso CV1.md",
-    "copilot/copilot-conversations/analize_2026Semana_4_this_folder_attached_at_maxium_detail@20260423_090602.md",
     "copilot/copilot-conversations",
     "Universidad/Calculo/Material de Clase/MA263 Sesión 1.1 Planos y superficies cuádricas incompletas.pdf",
     "Universidad/Calculo/Fotos/Gemini_Generated_Image_hvxuxmhvxuxmhvxu.png",
-    "Universidad/Calculo/Apuntes/Analisis Calculo.md",
     "Universidad/Calculo/Material de Clase/MA263 Sesión 1.2 Lista de ejercicios 1.2.pdf",
     "2026/skills/daily-checkin/references",
     "2026/skills/daily-checkin",
-    "2026/skills/daily-checkin.skill",
-    "2026/skills",
     "Pasted image 20260413183557.png",
     "Pasted image 20260412201203.png",
     "Pasted image 20260412163059.png",
