@@ -17,9 +17,7 @@ relacionado: "[[martes-todolist]]"
 
 ## 🎓 Académico
 
-### Cálculo II — foco activo del dia
-
-Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: el todolist marca avance en bloque tipo examen, errores frecuentes y readiness EU1 a 6/10; el reviewer lo deja como parcial porque falta evidencia visible de corrección y prueba bajo presión.
+### Cálculo II 
 
 **[ac-01]** ¿Avanzaste algo de Cálculo hoy? ¿Qué tema exacto estudiaste?
 
@@ -29,51 +27,39 @@ Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: el todoli
 
 > **R**:
 
-**[ac-03]** ¿Tocaste Estadística Aplicada?
-
-> **R**:
-
-**[ac-04]** ¿Avanzaste en Sistemas Operativos?
-
-> **R**:
-
-**[ac-05]** ¿Tocaste Aplicaciones Móviles?
-
-> **R**:
-
 **[rx-ac-01]** ¿Qué tema de Cálculo II necesita hoy evidencia real, no solo sensación de avance?
 
-> **R**:
+> **R**: Ninguno.
 
 **[rx-ac-04]** ¿Qué quedó pendiente de Estadística Aplicada y por qué volvió a quedar fuera?
 
-> **R**:
+> **R**: El Avance de la DD1. Por supuesto que el día miércoles lo avanzaré
 
 ---
 
 ## 🛠️ Proyectos
 
-Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: [[MaquinariasJyS]] aparece marcado como avance visible con flujo elegido, revisión de `admin/orders` e implementación básica; el reviewer lo mantiene parcial porque falta tracker, pantalla, checklist o decisión técnica verificable.
+Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: [[MaquinariasJyS]] aparece marcado como avance visible con flujo elegido, revisión de `admin/orders` e implementación básica; el reviewer lo mantiene parcial porque falta tracker, pantalla, checklist o decisión técnica verificable. **Foco del del día: [[MaquinariasJyS]]
 
 **[pr-01]** ¿Tocaste MaquinariasJyS hoy?
 
-> **R**:
+> **R**: Sí. Subí la primera imagen (7 vistas generadas con gpt-images-2) a la nube. Inicialicé el backend y la arquitectura de base de datos.
 
 **[pr-02]** ¿Algún feature nuevo para Klippr?
 
-> **R**:
+> **R**: No por el momento.
 
 **[pr-04]** ¿Hay algún proyecto nuevo?
 
-> **R**:
+> **R**: No por el momento.
 
 **[rx-pr-01]** ¿MaquinariasJyS avanzó en algo verificable visualmente o solo en intención?
 
-> **R**:
+> **R**: Respondido en [pr-01]
 
 **[rx-pr-02]** ¿El avance de MaquinariasJyS necesita captura, demo o nota técnica para no perder contexto?
 
-> **R**:
+> **R**: Sí. Específicamente para Claude Code. Armé un comando que puede sincronizar ambos repositorios sin perder contexto.
 
 ---
 
@@ -83,19 +69,19 @@ Contexto inferido desde [[martes-todolist]]: aparecen marcados Claude Code para 
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo?
 
-> **R**:
+> **R**: Sí en [[MaquinariasJyS]]
 
 **[ai-03]** ¿Aprendiste algún concepto técnico nuevo hoy?
 
-> **R**:
+> **R**: Django y sus API KEYS. Repasé algo de su estructura.
 
 **[ai-04]** ¿Avanzaste algun modulo o aprendizaje de IA?
 
-> **R**:
+> **R**: No.
 
 **[rx-ai-03]** ¿Claude Code se usó para cerrar trabajo o para abrir más frentes?
 
-> **R**:
+> **R**: Cerrar avance en backend y conexión con frontend.
 
 ---
 
@@ -105,23 +91,23 @@ Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
-> **R**:
+> **R**: Sí.
 
 **[pd-02]** ¿Actualizaste o creaste alguna nota en Obsidian?
 
-> **R**:
+> **R**: [[martes-checkin]] [[martes-todolist]]
 
 **[pd-04]** ¿Tuviste somnolencia post-almuerzo?
 
-> **R**:
+> **R**: No.
 
 **[rx-pd-01]** ¿El todolist de hoy coincide con lo que realmente pasó?
 
-> **R**:
+> **R**: Claro que sí.
 
 **[rx-pd-02]** ¿Qué nota de Obsidian debería existir después de lo que hiciste hoy?
 
-> **R**:
+> **R**: Summary (Lo haré con codex)
 
 ---
 
@@ -131,19 +117,19 @@ Contexto inferido desde [[martes-todolist]]: la meta de 8k pasos quedó sin marc
 
 **[pe-01]** ¿Hiciste ejercicio hoy?
 
-> **R**:
+> **R**: Sí. 2 series de 15 push ups, 2 series de 20 sentadillas, 2 series de peso muerto al fallo, 20 abdominales.
 
 **[pe-02]** ¿A qué hora dormiste y cómo amaneciste?
 
-> **R**:
+> **R**: Ayer dormí a las 11:30am, me levanté a las 7:30am. Amanecí muy inspirado y con ánimos de documentar mis avances en Obsidian y en [[MaquinariasJyS]]
 
 **[pe-03]** ¿Hubo bloqueo emocional o mental?
 
-> **R**:
+> **R**: No.
 
 **[rx-pe-01]** ¿Tu energía real del día justificó el nivel de exigencia que te pusiste?
 
-> **R**:
+> **R**: Por supuesto que sí. Inclusive implementé una nueva técnica para concentrarme mejor.
 
 ---
 
@@ -155,13 +141,13 @@ Contexto inferido desde [[martes-todolist]]: la meta de 8k pasos quedó sin marc
 
 🐒 **Pendiente:**
 
-- [ ] Completar respuestas concretas de [[martes-checkin]]
-- [ ] Confirmar evidencia real de [[Calculo II]]: ejercicios, errores y readiness
-- [ ] Confirmar evidencia real de [[MaquinariasJyS]]: pantalla, componente, tracker, checklist o decisión
+- [x] Completar respuestas concretas de [[martes-checkin]]
+- [x] Confirmar evidencia real de [[Calculo II]]: ejercicios, errores y readiness
+- [x] Confirmar evidencia real de [[MaquinariasJyS]]: pantalla, componente, tracker, checklist o decisión
 - [ ] Registrar patrones [[Kotlin]] si realmente quedaron extraídos
 - [ ] Mover [[Estadistica Aplicada]] a [[miercoles-todolist]] con entregable concreto
 - [ ] Confirmar si hubo reunión backend C# de [[Aplicaciones Moviles]]
-- [ ] Registrar pasos, sueño, energía y somnolencia reales
+- [x] Registrar pasos, sueño, energía y somnolencia reales
 - [ ] Generar [[martes-summary]]
 
 ---
