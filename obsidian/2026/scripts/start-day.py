@@ -225,13 +225,22 @@ fecha: {today_iso}
 """
 
     # Top 3
-    top3 = [t[0] for t in pending_tasks[:3]] if pending_tasks else [
+    # Format top 3 with cleaner text
+    raw_top3 = [t[0] for t in pending_tasks[:3]] if pending_tasks else [
         "Definir prioridad del día",
         "Revisar estado de cursos UPC",
         "Avanzar proyecto activo",
     ]
+    top3 = []
+    for t in raw_top3:
+        # Clean up tracker-style text
+        clean = re.sub(r"`\[\[(.+?)\]\]`", r"[[\1]]", t)
+        clean = re.sub(r"`← tracker`", "", clean)
+        clean = re.sub(r" aparece pendiente.*?\(.*?\)", "", clean).strip()
+        top3.append(clean if clean else t)
+    
     content += "## Top 3\n\n"
-    for t in top3:
+    for t in top3[:3]:
         content += f"- [ ] {t}\n"
 
     # University section
@@ -253,8 +262,15 @@ fecha: {today_iso}
     # Carried over tasks
     if pending_tasks:
         content += "\n## Pendientes arrastrados\n\n"
+        seen = set()
         for task, source in pending_tasks:
-            content += f"- [ ] {task}  `← {source}`\n"
+            clean = re.sub(r"`\[\[(.+?)\]\]`", r"[[\1]]", task)
+            clean = re.sub(r"`← .+?`", "", clean).strip()
+            # Deduplicate
+            key = clean.lower().strip()
+            if key not in seen and len(key) > 5:
+                seen.add(key)
+                content += f"- [ ] {clean}\n"
 
     content += f"""
 ## IA & Dev
