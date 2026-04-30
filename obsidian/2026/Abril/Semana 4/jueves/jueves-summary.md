@@ -53,7 +53,7 @@ Jueves con foco académico: repaso completo de la Unidad 1 de Cálculo 2 como pr
 
 ## 🔗 Notas del día
 
-[[jueves-checkin]] | [[jueves-todolist]] | [[jueves-todoreviewer]]
+[[jueves-checkin]] | [[2026/Abril/Semana 4/jueves/jueves-todolist]] | [[jueves-todoreviewer]]
 
 ---
 

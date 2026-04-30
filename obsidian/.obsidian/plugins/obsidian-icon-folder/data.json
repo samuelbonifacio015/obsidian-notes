@@ -7,11 +7,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlarmClockCheck",
       "LiComputer",
       "LiCat",
       "LiDog",
-      "LiAtSign",
-      "LiApple"
+      "LiAtSign"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,6 @@
   "2026/Abril/Semana 4/viernes": "LiDog",
   "2026/Abril/Semana 5/lunes": "LiCat",
   "2026/Abril/Semana 5/martes": "LiComputer",
-  "2026/Abril/Semana 5/miercoles": "LiApple"
+  "2026/Abril/Semana 5/miercoles": "LiApple",
+  "2026/Abril/Semana 5/jueves": "LiAlarmClockCheck"
 }

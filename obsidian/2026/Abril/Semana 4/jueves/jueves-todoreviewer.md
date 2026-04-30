@@ -67,4 +67,4 @@
 
 _Generado con `todo-reviewer` · [[2026-04-23-daily]] · [[2026-04-22-todolist]] ← → [[2026-04-24-todolist]]_
 
-review de [[jueves-todolist]]
+review de [[2026/Abril/Semana 4/jueves/jueves-todolist]]

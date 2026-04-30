@@ -63,7 +63,7 @@ estado: en progreso
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
-> R: [[jueves-checkin]] [[jueves-todolist]] [[jueves-todoreviewer]], mis resúmenes de hoy jueves
+> R: [[jueves-checkin]] [[2026/Abril/Semana 4/jueves/jueves-todolist]] [[jueves-todoreviewer]], mis resúmenes de hoy jueves
 
 **[pd-02]** ¿Actualizaste o creaste alguna nota en Obsidian?
 
