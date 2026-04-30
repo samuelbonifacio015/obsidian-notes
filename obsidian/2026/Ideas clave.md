@@ -1,0 +1,3 @@
+# Ideas clave
+
+Notas sueltas.
