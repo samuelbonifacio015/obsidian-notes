@@ -114,7 +114,8 @@
       "default_neighbour_field": ""
     },
     "tag_note": {
-      "default_field": "up"
+      "default_field": "up",
+      "default_sibling_field": ""
     },
     "regex_note": {
       "default_field": "up"
@@ -123,18 +124,48 @@
       "enabled": false,
       "delimiter": ".",
       "default_field": "up",
-      "display_trimmed": false
+      "display_trimmed": false,
+      "default_sibling_field": ""
     },
     "johnny_decimal_note": {
       "enabled": false,
       "delimiter": ".",
-      "default_field": "up"
+      "default_field": "up",
+      "default_sibling_field": ""
     },
     "date_note": {
       "enabled": false,
       "date_format": "yyyy-MM-dd",
       "default_field": "next",
-      "stretch_to_existing": false
+      "stretch_to_existing": false,
+      "week": {
+        "enabled": false,
+        "date_format": "kkkk-'W'WW",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      },
+      "month": {
+        "enabled": false,
+        "date_format": "yyyy-MM",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      },
+      "quarter": {
+        "enabled": false,
+        "date_format": "yyyy-'Q'q",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      },
+      "year": {
+        "enabled": false,
+        "date_format": "yyyy",
+        "folder": "",
+        "next_field": "next",
+        "up_field": "up"
+      }
     }
   },
   "views": {
@@ -174,6 +205,12 @@
           "next": [
             "nexts"
           ]
+        },
+        "period_rows": {
+          "week": false,
+          "month": false,
+          "quarter": false,
+          "year": false
         }
       }
     },
@@ -213,6 +250,7 @@
         "lock_view": false,
         "lock_path": "",
         "field_group_labels": [
+          "ups",
           "downs"
         ],
         "edge_sort_id": {
@@ -223,7 +261,12 @@
           "ext": false,
           "folder": false,
           "alias": false
-        }
+        },
+        "default_depth": 5,
+        "find_root": true,
+        "find_root_field_group_labels": [
+          "ups"
+        ]
       }
     },
     "codeblocks": {
@@ -282,5 +325,9 @@
   },
   "debug": {
     "level": "INFO"
+  },
+  "_bc_migrations": {
+    "tree_ups_with_downs_default": true,
+    "tree_find_root_default": true
   }
 }
