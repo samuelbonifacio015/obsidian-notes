@@ -74,6 +74,36 @@ En lugar de "aprende IA", el anuncio dice: *"aprende IA como estudiante de medic
 
 ---
 
+## Lead Magnet: Módulo Hook Gratuito (Nivel 0)
+
+**Promesa central:** Que el usuario tenga una automatización REAL corriendo antes de terminar el Día 5.
+
+**Outcome tangible:** "Tu bandeja de entrada auto-resumida" — el outcome más vendible para un profesional en LATAM. Lo ven, lo usan, se lo muestran a alguien. Eso convierte.
+
+### Estructura de 5 días (gamificada)
+
+| Día | Misión | Checkpoint |
+|-----|--------|------------|
+| Día 1 | — | Primer contacto con la herramienta |
+| Día 2 | — | Primer trigger configurado |
+| Día 3 | — | Primera automatización simple funcionando |
+| Día 4 | — | Integración con bandeja de entrada |
+| Día 5 | Boss final | Make.com muestra 1 run exitoso. Compartir en comunidad. |
+
+### Reglas de gamificación
+
+1. **Cada día tiene un único entregable verificable** — no "aprende X", sino "Make.com muestra 1 run exitoso". Sin checkpoint, no hay juego.
+2. **El boss final es social** — compartir en comunidad no es opcional, es el mecanismo de distribución. Cada persona que completa el Día 5 es un caso de uso ambulante.
+3. **El unlock al curso completo sale del boss** — el badge "Automatizador Nivel 1" es la puerta de entrada al pitch del curso de pago. No pop-up, no email a los 3 días. Sale naturalmente del flujo.
+
+### Decisiones pendientes
+
+- [ ] ¿Dónde vive el módulo? (Notion embebido, web propia, WhatsApp bot, PDF interactivo)
+- [ ] ¿Trigger de distribución? (link en LinkedIn, QR en reunión, landing page)
+- [ ] ¿Comunidad: WhatsApp o Discord? — para LATAM no-técnico, WhatsApp gana.
+
+---
+
 ## Próximos pasos
 
 - [ ] Definir nombre definitivo de la startup
