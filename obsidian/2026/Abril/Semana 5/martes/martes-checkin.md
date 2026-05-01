@@ -11,7 +11,7 @@ relacionado: "[[martes-todolist]]"
 > 🐒 Check-in del martes, 28 de abril.
 > Base tomada de [[martes-todolist]], [[lunes-checkin]], [[lunes-summary]] y [[martes-todoreviewer]].
 >
-> Martes enfocado en [[MaquinariasJyS]], [[Calculo II]], patrones [[Kotlin]] y cierre honesto de pendientes UPC.
+> Martes enfocado en [[Bitacora MaquinariasJyS|MaquinariasJyS]], [[Bitacora Calculo II|Calculo II]], patrones [[Kotlin]] y cierre honesto de pendientes UPC.
 
 ---
 
@@ -39,7 +39,7 @@ relacionado: "[[martes-todolist]]"
 
 ## 🛠️ Proyectos
 
-Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: [[MaquinariasJyS]] aparece marcado como avance visible con flujo elegido, revisión de `admin/orders` e implementación básica; el reviewer lo mantiene parcial porque falta tracker, pantalla, checklist o decisión técnica verificable. **Foco del del día: [[MaquinariasJyS]]
+Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: [[Bitacora MaquinariasJyS|MaquinariasJyS]] aparece marcado como avance visible con flujo elegido, revisión de `admin/orders` e implementación básica; el reviewer lo mantiene parcial porque falta tracker, pantalla, checklist o decisión técnica verificable. **Foco del del día: [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 
 **[pr-01]** ¿Tocaste MaquinariasJyS hoy?
 
@@ -65,11 +65,11 @@ Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: [[Maquina
 
 ## 🤖 IA & Dev
 
-Contexto inferido desde [[martes-todolist]]: aparecen marcados Claude Code para [[MaquinariasJyS]], modelo local / Deepseek para corregir [[Calculo II]], documentación técnica y registro de decisión técnica. [[martes-todoreviewer]] advierte que falta evidencia concreta de esas marcas.
+Contexto inferido desde [[martes-todolist]]: aparecen marcados Claude Code para [[Bitacora MaquinariasJyS|MaquinariasJyS]], modelo local / Deepseek para corregir [[Bitacora Calculo II|Calculo II]], documentación técnica y registro de decisión técnica. [[martes-todoreviewer]] advierte que falta evidencia concreta de esas marcas.
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo?
 
-> **R**: Sí en [[MaquinariasJyS]]
+> **R**: Sí en [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 
 **[ai-03]** ¿Aprendiste algún concepto técnico nuevo hoy?
 
@@ -87,7 +87,7 @@ Contexto inferido desde [[martes-todolist]]: aparecen marcados Claude Code para 
 
 ## 📋 Productividad
 
-Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [[lunes-todolist]], actualización de [[week-tracker]], creación o cierre de [[martes-checkin]] y mantener visible el cuello de botella [[Calculo II]] + [[Estadistica Aplicada]].
+Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [[lunes-todolist]], actualización de [[week-tracker]], creación o cierre de [[martes-checkin]] y mantener visible el cuello de botella [[Bitacora Calculo II|Calculo II]] + [[Bitacora Estadistica Aplicada|Estadistica Aplicada]].
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
@@ -121,7 +121,7 @@ Contexto inferido desde [[martes-todolist]]: la meta de 8k pasos quedó sin marc
 
 **[pe-02]** ¿A qué hora dormiste y cómo amaneciste?
 
-> **R**: Ayer dormí a las 11:30am, me levanté a las 7:30am. Amanecí muy inspirado y con ánimos de documentar mis avances en Obsidian y en [[MaquinariasJyS]]
+> **R**: Ayer dormí a las 11:30am, me levanté a las 7:30am. Amanecí muy inspirado y con ánimos de documentar mis avances en Obsidian y en [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 
 **[pe-03]** ¿Hubo bloqueo emocional o mental?
 
@@ -135,17 +135,17 @@ Contexto inferido desde [[martes-todolist]]: la meta de 8k pasos quedó sin marc
 
 ## 🐒 Nota de cierre
 
-- Logro principal del dia: inferido desde [[martes-todolist]], hubo avance marcado en [[MaquinariasJyS]], [[Calculo II]] y patrones [[Kotlin]].
-- Pendiente mas urgente: [[Estadistica Aplicada]] sigue sin entregable visible y [[MaquinariasJyS]] necesita evidencia concreta.
+- Logro principal del dia: inferido desde [[martes-todolist]], hubo avance marcado en [[Bitacora MaquinariasJyS|MaquinariasJyS]], [[Bitacora Calculo II|Calculo II]] y patrones [[Kotlin]].
+- Pendiente mas urgente: [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] sigue sin entregable visible y [[Bitacora MaquinariasJyS|MaquinariasJyS]] necesita evidencia concreta.
 - Observacion honesta del dia: el martes tiene muchas marcas `[x]`, pero [[martes-todoreviewer]] advierte que varias dependen de evidencia que aún no está registrada en el vault.
 
 🐒 **Pendiente:**
 
 - [x] Completar respuestas concretas de [[martes-checkin]]
-- [x] Confirmar evidencia real de [[Calculo II]]: ejercicios, errores y readiness
-- [x] Confirmar evidencia real de [[MaquinariasJyS]]: pantalla, componente, tracker, checklist o decisión
+- [x] Confirmar evidencia real de [[Bitacora Calculo II|Calculo II]]: ejercicios, errores y readiness
+- [x] Confirmar evidencia real de [[Bitacora MaquinariasJyS|MaquinariasJyS]]: pantalla, componente, tracker, checklist o decisión
 - [ ] Registrar patrones [[Kotlin]] si realmente quedaron extraídos
-- [ ] Mover [[Estadistica Aplicada]] a [[miercoles-todolist]] con entregable concreto
+- [ ] Mover [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] a [[miercoles-todolist]] con entregable concreto
 - [ ] Confirmar si hubo reunión backend C# de [[Aplicaciones Moviles]]
 - [x] Registrar pasos, sueño, energía y somnolencia reales
 - [ ] Generar [[martes-summary]]

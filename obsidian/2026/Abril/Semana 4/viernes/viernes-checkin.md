@@ -20,7 +20,7 @@ estado: completado
 
 **[ac-02]** ¿Revisaste el Blackboard de UPC hoy?
 
-> R: Sí hubo envío y sustentación del proyecto [[QRust - Klippr]].
+> R: Sí hubo envío y sustentación del proyecto [[Bitacora QRust|QRust - Klippr]].
 
 **[ac-03]** ¿Tocaste Estadística Aplicada?
 
@@ -39,7 +39,7 @@ estado: completado
 
 **[pr-04]** ¿Hay algún proyecto nuevo que hayas empezado o planeado hoy?
 
-> R: No proyecto nuevo. Se cerró trabajo de [[QRust Org]] con merge de ramas exitoso.
+> R: No proyecto nuevo. Se cerró trabajo de [[Bitacora QRust|QRust Org]] con merge de ramas exitoso.
 
 ---
 
@@ -51,7 +51,7 @@ estado: completado
 
 **[ai-03]** ¿Aprendiste algún concepto técnico nuevo hoy — patrón, API, herramienta?
 
-> R: Trabajo técnico aplicado: merge de ramas completado con éxito en [[QRust Org]].
+> R: Trabajo técnico aplicado: merge de ramas completado con éxito en [[Bitacora QRust|QRust Org]].
 
 **[ai-04]** ¿Avanzaste algún módulo o curso de JavaScript / TypeScript / framework?
 
@@ -93,14 +93,14 @@ estado: completado
 
 _🐒 Nota: Hoy viernes 24 de abril:
 
-- Terminé TB1 de [[QRust]]
-- Merge de ramas con éxito en [[QRust Org]]
-- Envío y sustentación del proyecto [[QRust - Klippr]]
-- Avance de [[MaquinariasJyS]] en las últimas 2 pantallas
+- Terminé TB1 de [[Bitacora QRust|QRust]]
+- Merge de ramas con éxito en [[Bitacora QRust|QRust Org]]
+- Envío y sustentación del proyecto [[Bitacora QRust|QRust - Klippr]]
+- Avance de [[Bitacora MaquinariasJyS|MaquinariasJyS]] en las últimas 2 pantallas
 - Sincronización y review de Obsidian completadas
 - Revisión de pendientes para mañana completada
 
 🐒 **Pendiente:**
-* Registrar feedback o decisiones posteriores a la sustentación de [[QRust - Klippr]]
-* Documentar qué pantallas finales avanzaron en [[MaquinariasJyS]]
+* Registrar feedback o decisiones posteriores a la sustentación de [[Bitacora QRust|QRust - Klippr]]
+* Documentar qué pantallas finales avanzaron en [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 * Preparar plan de sábado desde el cierre de pendientes

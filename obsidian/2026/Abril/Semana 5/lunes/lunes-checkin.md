@@ -11,7 +11,7 @@ relacionado: "[[lunes-todolist]]"
 > 🐒 Check-in del lunes, 27 de abril.
 > Base tomada de [[lunes-todolist]] y contexto disponible.
 >
-> Arranque de Semana 5 con foco en [[Calculo II]], [[MaquinariasJyS]] y cumpleaños de tu mamá.
+> Arranque de Semana 5 con foco en [[Bitacora Calculo II|Calculo II]], [[Bitacora MaquinariasJyS|MaquinariasJyS]] y cumpleaños de tu mamá.
 
 ---
 
@@ -59,7 +59,7 @@ ejemplo: animation.js perfomance.js
 
 ## 🛠️ Proyectos
 
-Contexto inferido desde [[lunes-todolist]]: [[MaquinariasJyS]] aparece marcado con flujo principal, pantalla funcional básica y tracker de `admin/orders`; [[QRust Org]] aparece como decisión técnica registrada si quedó después del merge.
+Contexto inferido desde [[lunes-todolist]]: [[Bitacora MaquinariasJyS|MaquinariasJyS]] aparece marcado con flujo principal, pantalla funcional básica y tracker de `admin/orders`; [[Bitacora QRust|QRust Org]] aparece como decisión técnica registrada si quedó después del merge.
 
 **[pr-01]** ¿Tocaste MaquinariasJyS hoy?
 
@@ -81,7 +81,7 @@ Contexto inferido desde [[lunes-todolist]]: [[MaquinariasJyS]] aparece marcado c
 
 ## 🤖 IA & Dev
 
-Contexto inferido desde [[lunes-todolist]]: aparece marcado el uso de Claude Code con scope cerrado para [[MaquinariasJyS]] y el uso de modelo/mentor para corregir [[Calculo II]]; queda pendiente documentar una nota técnica o académica nueva en Obsidian.
+Contexto inferido desde [[lunes-todolist]]: aparece marcado el uso de Claude Code con scope cerrado para [[Bitacora MaquinariasJyS|MaquinariasJyS]] y el uso de modelo/mentor para corregir [[Bitacora Calculo II|Calculo II]]; queda pendiente documentar una nota técnica o académica nueva en Obsidian.
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo?
 
@@ -151,16 +151,16 @@ Contexto dado por Samuel: el lunes fue el cumpleaños de tu mamá. Contexto infe
 
 ## 🐒 Nota de cierre
 
-- Logro principal del dia: inferido desde [[lunes-todolist]], el avance más fuerte fue [[Calculo II]] con práctica corregida y arranque de [[MaquinariasJyS]].
-- Pendiente mas urgente: [[Estadistica Aplicada]] quedó sin entregable visible y debe pasar al siguiente día.
+- Logro principal del dia: inferido desde [[lunes-todolist]], el avance más fuerte fue [[Bitacora Calculo II|Calculo II]] con práctica corregida y arranque de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
+- Pendiente mas urgente: [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] quedó sin entregable visible y debe pasar al siguiente día.
 - Observacion honesta del dia: el todolist muestra un lunes productivo, pero el check-in queda inferido hasta que Samuel complete las respuestas concretas.
 
 🐒 **Pendiente:**
 
 - [ ] Completar respuestas concretas de [[lunes-checkin]]
-- [ ] Confirmar evidencia real de [[Calculo II]]: ejercicios, errores y fórmulas
-- [ ] Confirmar evidencia real de [[MaquinariasJyS]]: pantalla, componente, tracker o decisión
-- [ ] Mover [[Estadistica Aplicada]] a [[martes-todolist]] o [[miercoles-todolist]] con entregable concreto
+- [ ] Confirmar evidencia real de [[Bitacora Calculo II|Calculo II]]: ejercicios, errores y fórmulas
+- [ ] Confirmar evidencia real de [[Bitacora MaquinariasJyS|MaquinariasJyS]]: pantalla, componente, tracker o decisión
+- [ ] Mover [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] a [[martes-todolist]] o [[miercoles-todolist]] con entregable concreto
 - [ ] Registrar cómo afectó el cumpleaños de tu mamá al ritmo del día
 - [ ] Generar [[lunes-summary]]
 - [ ] Generar [[lunes-todoreviewer]] si falta

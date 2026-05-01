@@ -13,12 +13,12 @@
 
 ## 📚 Universidad
 
-- [ ] [[Cálculo II]] — PDFs de módulos, avanzar temario EU1 · ⏱ 1.5h
+- [ ] [[Bitacora Calculo II|Cálculo II]] — PDFs de módulos, avanzar temario EU1 · ⏱ 1.5h
 
 ## 🛠️ Proyectos
 
-- [ ] [[MaquinariasJyS]] — Avance mínimo: 1 pantalla o 1 feature completa · ⏱ 1.5h
-- [ ] [[QRust Org]] — Merge de ramas + actualización organizacional · ⏱ 1.5h
+- [ ] [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Avance mínimo: 1 pantalla o 1 feature completa · ⏱ 1.5h
+- [ ] [[Bitacora QRust|QRust Org]] — Merge de ramas + actualización organizacional · ⏱ 1.5h
 
 ## 🏃 Personal / Mantenimiento
 
@@ -34,7 +34,7 @@
 |1|[[Cálculo II - EU1]]|1.5h|Matemáticas = cerebro fresco. Va primero sin negociar.|
 |2|[[QRust Org - Merge]]|1.5h|Git + arquitectura es foco técnico, mejor antes del mediodía|
 |3|[[DDD - Bounded Contexts]] 2.6.1.5|1h|Continuación directa del contexto de QRust, encadena bien|
-|4|[[MaquinariasJyS]]|1.5h|Tarde — MJYS es más mecánico y fluye con menos energía mental|
+|4|[[Bitacora MaquinariasJyS|MaquinariasJyS]]|1.5h|Tarde — MJYS es más mecánico y fluye con menos energía mental|
 |5|[[Obsidian - Vault]]|30min|Cierre tranquilo, no requiere foco intenso|
 |6|Revisión de pendientes|15min|Último. Input para el daily de mañana.|
 
@@ -57,10 +57,10 @@
 
 ## 🔗 Notas relacionadas a crear/linkear hoy
 
-- [[QRust Org]] → nota del proyecto con estado de ramas
+- [[Bitacora QRust|QRust Org]] → nota del proyecto con estado de ramas
 - [[DDD - Bounded Contexts]] → apuntes del libro/curso desde 2.6.1.5
 - [[Cálculo II - EU1]] → nota de estudio con ejercicios resueltos
-- [[MaquinariasJyS]] → tracker de pantallas y features
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]] → tracker de pantallas y features
 - [[2026-04-23-daily]] → daily check-in de hoy (vincúlala al cerrar el día)
 
 ---

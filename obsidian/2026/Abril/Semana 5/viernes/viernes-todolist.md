@@ -5,27 +5,27 @@
 
 ## Top 3
 
-- [ ] [[MaquinariasJyS]] - Incorporar feedback del cliente: logo, banner del giro, descripciones de productos.
-- [ ] [[Kliprr - Backend]] - Usar Claude Code para avanzar el backend (scope cerrado).
-- [ ] [[Estadistica Aplicada]] - Elegir dataset y escribir estructura de la DD1. **Es urgente — lleva 4 días sin avance.**
+- [ ] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Incorporar feedback del cliente: logo, banner del giro, descripciones de productos.
+- [ ] [[Bitacora QRust|Kliprr - Backend]] - Usar Claude Code para avanzar el backend (scope cerrado).
+- [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] - Elegir dataset y escribir estructura de la DD1. **Es urgente — lleva 4 días sin avance.**
 
 ## Universidad
 
 - [ ] [[Sistemas Operativos]] - Revisar requirement del informe de PC2 (entrega domingo, no es examen).
-- [ ] [[Estadistica Aplicada]] - Elegir dataset y escribir estructura de la DD1.
-- [ ] [[Calculo II]] - Continuar con [[Razonamiento Cuantitativo]] si hay tiempo.
+- [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] - Elegir dataset y escribir estructura de la DD1.
+- [ ] [[Bitacora Calculo II|Calculo II]] - Continuar con [[Razonamiento Cuantitativo]] si hay tiempo.
 - [ ] Blackboard UPC - Revisar anuncios/materiales nuevos.
 
 ## Proyectos
 
-- [ ] [[MaquinariasJyS]] - Logo: definir si lo haces con IA o diseño propio.
-- [ ] [[MaquinariasJyS]] - Banner del giro: imagen principal del negocio.
-- [ ] [[MaquinariasJyS]] - Descripciones de productos: revisar y mejorar textos.
-- [ ] [[Kliprr - Backend]] - Claude Code con scope cerrado.
+- [ ] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Logo: definir si lo haces con IA o diseño propio.
+- [ ] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Banner del giro: imagen principal del negocio.
+- [ ] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Descripciones de productos: revisar y mejorar textos.
+- [ ] [[Bitacora QRust|Kliprr - Backend]] - Claude Code con scope cerrado.
 
 ## IA & Dev
 
-- [ ] Claude Code - Scope cerrado para [[Kliprr - Backend]] (prioridad).
+- [ ] Claude Code - Scope cerrado para [[Bitacora QRust|Kliprr - Backend]] (prioridad).
 - [ ] Documentar aprendizaje técnico en Obsidian si aparece (bounded contexts, etc.).
 
 ## Personal

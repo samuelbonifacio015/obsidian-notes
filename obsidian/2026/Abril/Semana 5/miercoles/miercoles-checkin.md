@@ -11,7 +11,7 @@ relacionado: "[[miercoles-todolist]]"
 > 🐒 Check-in del miércoles, 29 de abril.
 > Base tomada de [[miercoles-todolist]], [[martes-checkin]] y [[martes-summary]].
 >
-> Miércoles full [[MaquinariasJyS]]: Cloudinary, frontend con imágenes reales y backend con Swagger. Estadística sigue en deuda.
+> Miércoles full [[Bitacora MaquinariasJyS|MaquinariasJyS]]: Cloudinary, frontend con imágenes reales y backend con Swagger. Estadística sigue en deuda.
 
 ---
 
@@ -21,7 +21,7 @@ relacionado: "[[miercoles-todolist]]"
 
 **[ac-01]** ¿Avanzaste algo de Cálculo hoy? ¿Qué tema exacto estudiaste?
 
-> **R**: No, el día estuvo dedicado a [[MaquinariasJyS]].
+> **R**: No, el día estuvo dedicado a [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 
 **[ac-02]** ¿Revisaste el Blackboard de UPC hoy? ¿Había algo nuevo?
 
@@ -29,13 +29,13 @@ relacionado: "[[miercoles-todolist]]"
 
 **[rx-ac-04]** ¿Qué quedó pendiente de Estadística Aplicada y por qué volvió a quedar fuera?
 
-> **R**: La DD1 (talleres + documentación en Google Docs). Sigue sin avance por tercer día — compite con [[MaquinariasJyS]] que tuvo prioridad.
+> **R**: La DD1 (talleres + documentación en Google Docs). Sigue sin avance por tercer día — compite con [[Bitacora MaquinariasJyS|MaquinariasJyS]] que tuvo prioridad.
 
 ---
 
 ## 🛠️ Proyectos
 
-Contexto inferido desde [[miercoles-todolist]]: los 3 hits de [[MaquinariasJyS]] están marcados como completados — instancia de imágenes + Cloudinary, primer producto en frontend con imágenes de nube, y backend con Swagger.
+Contexto inferido desde [[miercoles-todolist]]: los 3 hits de [[Bitacora MaquinariasJyS|MaquinariasJyS]] están marcados como completados — instancia de imágenes + Cloudinary, primer producto en frontend con imágenes de nube, y backend con Swagger.
 
 **[pr-01]** ¿Tocaste MaquinariasJyS hoy?
 
@@ -63,7 +63,7 @@ Contexto inferido desde [[miercoles-todolist]]: los 3 hits de [[MaquinariasJyS]]
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo?
 
-> **R**: Inferido: probablemente sí para [[MaquinariasJyS]] (backend endpoints + Swagger).
+> **R**: Inferido: probablemente sí para [[Bitacora MaquinariasJyS|MaquinariasJyS]] (backend endpoints + Swagger).
 
 **[ai-03]** ¿Aprendiste algún concepto técnico nuevo hoy?
 
@@ -121,17 +121,17 @@ Contexto inferido desde [[miercoles-todolist]]: los 3 hits de [[MaquinariasJyS]]
 
 ## 🐒 Nota de cierre
 
-- Logro principal del dia: [[MaquinariasJyS]] con 3 hits verificables — Cloudinary, frontend con imágenes reales, backend + Swagger.
-- Pendiente mas urgente: [[Estadistica Aplicada]] acumula 3 días sin avance.
+- Logro principal del dia: [[Bitacora MaquinariasJyS|MaquinariasJyS]] con 3 hits verificables — Cloudinary, frontend con imágenes reales, backend + Swagger.
+- Pendiente mas urgente: [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] acumula 3 días sin avance.
 - Observacion honesta del dia: el miércoles fue un día sólido para proyectos pero la deuda académica (Estadística, Cálculo, SO) sigue intacta.
 
 🐒 **Pendiente:**
 
 - [x] Completar respuestas concretas de [[miercoles-checkin]]
-- [x] Confirmar evidencia real de [[MaquinariasJyS]]: Cloudinary + BD, frontend con imágenes, backend + Swagger
+- [x] Confirmar evidencia real de [[Bitacora MaquinariasJyS|MaquinariasJyS]]: Cloudinary + BD, frontend con imágenes, backend + Swagger
 - [ ] Registrar nota técnica de Cloudinary + Swagger en Obsidian
-- [ ] Avanzar [[Estadistica Aplicada]] — DD1 en Google Docs
-- [ ] Revisar si [[Calculo II]] necesita corrección post-EU1
+- [ ] Avanzar [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] — DD1 en Google Docs
+- [ ] Revisar si [[Bitacora Calculo II|Calculo II]] necesita corrección post-EU1
 - [ ] Verificar [[PC2 de Sistemas Operativos el domingo]]
 - [ ] Generar [[miercoles-todoreviewer]]
 - [ ] Generar [[jueves-todolist]] (si no existe)

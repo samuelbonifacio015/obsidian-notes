@@ -14,19 +14,28 @@ Este indice separa el conocimiento estable del seguimiento diario. Los diarios p
 
 ## Clusters por dominio
 
-- [[Calculo II - MOC]]
-- [[Estadistica Aplicada - MOC]]
-- [[MaquinariasJyS - MOC]]
-- [[QRust - MOC]]
+Esta nota funciona como guia conceptual, no como supernodo del grafo. Para navegar visualmente los clusters, usa Graph View con el filtro:
+
+```text
+path:Conocimiento -file:"Red de conocimiento"
+```
+
+Clusters activos:
+
+- Calculo II: MOC, bitacora y conceptos atomicos.
+- Estadistica Aplicada: MOC, bitacora y conceptos atomicos.
+- MaquinariasJyS: MOC, bitacora, decisiones e integraciones.
+- QRust: MOC, bitacora, arquitectura y revisiones.
 
 ## Regla de enlace
 
-- Los `*-todolist`, `*-checkin` y `*-summary` deberian enlazar al dominio principal, no a cada concepto.
-- Cada dominio deberia enlazar a su MOC.
+- Los `*-todolist`, `*-checkin` y `*-summary` deberian enlazar a la bitacora del dominio, no al MOC ni a cada concepto.
+- Cada bitacora deberia enlazar al MOC de su dominio.
 - Cada MOC deberia enlazar conceptos, decisiones, fuentes y preguntas abiertas del mismo dominio.
+- Los indices globales deberian evitar wikilinks directos a todos los clusters para no unir visualmente el grafo.
 
 ## Siguiente expansion
 
-- [[Aplicaciones Moviles]]
-- [[Sistemas Operativos]]
-- [[Obsidian - Vault]]
+- Aplicaciones Moviles.
+- Sistemas Operativos.
+- Obsidian - Vault.

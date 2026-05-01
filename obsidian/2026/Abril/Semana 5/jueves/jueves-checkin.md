@@ -11,7 +11,7 @@ relacionado: "[[jueves-todolist]]"
 > 🐒 Check-in del jueves, 30 de abril.
 > Base tomada de [[jueves-todolist]] y respuestas de Samuel.
 >
-> ¡Día perfecto! Presentación al cliente de [[MaquinariasJyS]] exitosa, adelanto cobrado, y cierre de mes con 10/10.
+> ¡Día perfecto! Presentación al cliente de [[Bitacora MaquinariasJyS|MaquinariasJyS]] exitosa, adelanto cobrado, y cierre de mes con 10/10.
 
 ---
 
@@ -41,7 +41,7 @@ relacionado: "[[jueves-todolist]]"
 
 **[pr-02]** ¿Algún feature nuevo para Kliprr?
 
-> **R**: Sí — hoy hice el initial setup y bounded contexts del backend [[Kliprr - Backend]].
+> **R**: Sí — hoy hice el initial setup y bounded contexts del backend [[Bitacora QRust|Kliprr - Backend]].
 
 **[pr-04]** ¿Algún proyecto nuevo?
 
@@ -61,11 +61,11 @@ relacionado: "[[jueves-todolist]]"
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo?
 
-> **R**: Sí, en [[MaquinariasJyS]].
+> **R**: Sí, en [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 
 **[ai-03]** ¿Aprendiste algún concepto técnico nuevo hoy?
 
-> **R**: Sí — bounded contexts para [[Kliprr - Backend]].
+> **R**: Sí — bounded contexts para [[Bitacora QRust|Kliprr - Backend]].
 
 **[ai-04]** ¿Avanzaste algún módulo o aprendizaje de IA?
 
@@ -73,7 +73,7 @@ relacionado: "[[jueves-todolist]]"
 
 **[rx-ai-03]** ¿Claude Code se usó para cerrar trabajo o para abrir más frentes?
 
-> **R**: Cerrar trabajo en [[MaquinariasJyS]].
+> **R**: Cerrar trabajo en [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 
 ---
 
@@ -122,8 +122,8 @@ relacionado: "[[jueves-todolist]]"
 
 ## 🐒 Nota de cierre
 
-- Logro principal del dia: Presentación exitosa con el cliente de [[MaquinariasJyS]] + adelanto cobrado 🎉
-- Pendiente mas urgente: [[Estadistica Aplicada]] acumula 4 días sin avance. [[Sistemas Operativos]] tiene informe de PC2 para el domingo.
+- Logro principal del dia: Presentación exitosa con el cliente de [[Bitacora MaquinariasJyS|MaquinariasJyS]] + adelanto cobrado 🎉
+- Pendiente mas urgente: [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] acumula 4 días sin avance. [[Sistemas Operativos]] tiene informe de PC2 para el domingo.
 - Observacion honesta del dia: Día perfecto. Proyecto avanzó, cliente feliz, dinero cobrado, sueño estable, y cierre de mes con energía.
 
 🐒 **Pendiente:**
@@ -133,7 +133,7 @@ relacionado: "[[jueves-todolist]]"
 - [x] Confirmar uso de Claude Code en MJYS
 - [x] Registrar 7,000 pasos + 300 calorías
 - [ ] Preparar [[viernes-todolist]] con Claude Code para Kliprr
-- [ ] Avanzar [[Estadistica Aplicada]] — dataset + DD1
+- [ ] Avanzar [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] — dataset + DD1
 - [ ] Revisar informe de [[PC2 Sistemas Operativos]]
 
 ---

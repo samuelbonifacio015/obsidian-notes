@@ -1,14 +1,7 @@
 # Estadística Aplicada
 
-## Mapa de conocimiento
+## Seguimiento
 
-- [[Estadistica Aplicada - MOC]]
-
-## Cluster
-
-- [[Tipos de variables estadisticas]]
-- [[Variables cualitativas]]
-- [[Graficos para variables cualitativas]]
-- [[Medidas de tendencia central]]
+- [[Bitacora Estadistica Aplicada]]
 
 Curso UPC Ciclo 6.

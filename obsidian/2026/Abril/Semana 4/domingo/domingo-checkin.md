@@ -21,7 +21,7 @@ relacionado: "[[domingo-todolist]]"
 
 **[ac-01]** ¿Avanzaste algo de Cálculo hoy? ¿Qué tema exacto estudiaste?
 
-> R: Sí. Ejecuté una simulación real de [[Calculo II]] EU1 sin guía paso a paso y corregí errores de superficies, dominios, gráficas y razonamiento cuantitativo.
+> R: Sí. Ejecuté una simulación real de [[Bitacora Calculo II|Calculo II]] EU1 sin guía paso a paso y corregí errores de superficies, dominios, gráficas y razonamiento cuantitativo.
 
 **[ac-01a]** ¿Qué parte del tema trabajaste con más detalle: teoría, ejercicios, interpretación gráfica, demostraciones o resolución mecánica?
 
@@ -53,7 +53,7 @@ relacionado: "[[domingo-todolist]]"
 
 **[ac-06]** ¿Hay alguna entrega o examen próximo que debas preparar?
 
-> R: Sí. Preparar arranque de Semana 5 con exámenes UPC y primer avance de [[MaquinariasJyS]].
+> R: Sí. Preparar arranque de Semana 5 con exámenes UPC y primer avance de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 
 ---
 
@@ -61,11 +61,11 @@ relacionado: "[[domingo-todolist]]"
 
 **[pr-01]** ¿Tocaste MaquinariasJyS hoy? ¿Qué componente o feature? ¿Fue código, diseño o Supabase?
 
-> R: Parcial. Se preparó el arranque de Semana 5 con primer avance de [[MaquinariasJyS]], pero quedó pendiente revisar `admin/orders`, anotar ajustes visuales y definir el checklist del primer avance frontend.
+> R: Parcial. Se preparó el arranque de Semana 5 con primer avance de [[Bitacora MaquinariasJyS|MaquinariasJyS]], pero quedó pendiente revisar `admin/orders`, anotar ajustes visuales y definir el checklist del primer avance frontend.
 
 **[pr-02]** ¿Algún feature nuevo para Klippr? ¿Backend, frontend o landing page?
 
-> R: No hubo feature nuevo registrado. Quedó pendiente registrar feedback de la sustentación de [[QRust - Klippr]].
+> R: No hubo feature nuevo registrado. Quedó pendiente registrar feedback de la sustentación de [[Bitacora QRust|QRust - Klippr]].
 
 **[pr-04]** ¿Hay algún proyecto nuevo que hayas empezado o planeado hoy?
 
@@ -77,15 +77,15 @@ relacionado: "[[domingo-todolist]]"
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo? ¿En qué proyecto?
 
-> R: No confirmado. Quedó pendiente revisar si Claude Code estaría disponible para un bloque corto de [[MaquinariasJyS]].
+> R: No confirmado. Quedó pendiente revisar si Claude Code estaría disponible para un bloque corto de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 
 **[ai-03]** ¿Aprendiste algún concepto técnico nuevo hoy — patrón, API, herramienta? ¿Lo documentaste en Obsidian?
 
-> R: Sí. Documenté en Obsidian un patrón aprendido de la práctica de [[Calculo II]].
+> R: Sí. Documenté en Obsidian un patrón aprendido de la práctica de [[Bitacora Calculo II|Calculo II]].
 
 **[ai-04]** ¿Avanzaste algún módulo o aprendizaje de IA?
 
-> R: Sí. Probé mentor de [[Calculo II]] con Deepseek / modelo local solo para corrección, no para resolver todo.
+> R: Sí. Probé mentor de [[Bitacora Calculo II|Calculo II]] con Deepseek / modelo local solo para corrección, no para resolver todo.
 
 **[rx-ai-01]** ¿La IA te ayudó hoy a estudiar o a evitar estudiar?
 
@@ -135,17 +135,17 @@ relacionado: "[[domingo-todolist]]"
 
 ## 🐒 Nota de cierre
 
-- Logro principal del día: simulación y corrección de [[Calculo II]] EU1 sin depender de guía paso a paso.
-- Pendiente más urgente: revisar [[Estadistica Aplicada]] y confirmar entregables concretos para Semana 5.
+- Logro principal del día: simulación y corrección de [[Bitacora Calculo II|Calculo II]] EU1 sin depender de guía paso a paso.
+- Pendiente más urgente: revisar [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] y confirmar entregables concretos para Semana 5.
 - Observación honesta del día: buen cierre académico en Cálculo, pero quedaron abiertos varios cierres de planificación y proyectos.
 
 🐒 **Pendiente:**
 
-- [ ] Revisar material pendiente de [[Estadistica Aplicada]] y listar entregables concretos
+- [ ] Revisar material pendiente de [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] y listar entregables concretos
 - [x] Confirmar estado real de [[Sistemas Operativos]] para PC1 / evaluación pendiente
-- [ ] Revisar `admin/orders` en [[MaquinariasJyS]] y anotar ajustes visuales
-- [ ] Definir checklist del primer avance frontend de [[MaquinariasJyS]] para Semana 5
-- [x] Registrar feedback pendiente de [[QRust - Klippr]]
+- [ ] Revisar `admin/orders` en [[Bitacora MaquinariasJyS|MaquinariasJyS]] y anotar ajustes visuales
+- [ ] Definir checklist del primer avance frontend de [[Bitacora MaquinariasJyS|MaquinariasJyS]] para Semana 5
+- [x] Registrar feedback pendiente de [[Bitacora QRust|QRust - Klippr]]
 - [ ] Preparar [[lunes-todolist]]
 - [ ] Generar [[domingo-summary]]
 

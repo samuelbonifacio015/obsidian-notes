@@ -12,7 +12,11 @@ created: 2026-05-01
 
 # MaquinariasJyS - MOC
 
-Mapa de conocimiento tecnico y decisiones para [[MaquinariasJyS]]. La meta es que el proyecto no viva solo en tareas diarias, sino tambien en decisiones reutilizables.
+Mapa de conocimiento tecnico y decisiones para MaquinariasJyS. La meta es que el proyecto no viva solo en tareas diarias, sino tambien en decisiones reutilizables.
+
+## Seguimiento
+
+- [[Bitacora MaquinariasJyS]]
 
 ## Arquitectura y decisiones
 

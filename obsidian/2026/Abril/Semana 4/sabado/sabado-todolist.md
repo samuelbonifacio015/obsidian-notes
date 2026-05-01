@@ -12,27 +12,27 @@ fecha: 2026-04-25
 
 ## Top 3
 
-- [x] Registrar feedback o decisiones posteriores a la sustentación de [[QRust - Klippr]]
-- [x] Documentar qué pantallas finales avanzaron en [[MaquinariasJyS]]
+- [x] Registrar feedback o decisiones posteriores a la sustentación de [[Bitacora QRust|QRust - Klippr]]
+- [x] Documentar qué pantallas finales avanzaron en [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 - [x] Preparar plan de recuperación para Cálculo, Estadística y pendientes UPC
 
 ## Universidad
 
-- [x] Revisar estado post-entrega de [[QRust - Klippr]]
+- [x] Revisar estado post-entrega de [[Bitacora QRust|QRust - Klippr]]
 - [x] Estudiar Cálculo II
 - [ ] Revisar Estadística Aplicada
 - [x] Revisar Blackboard UPC
 
 ## Proyectos
 
-- [x] Actualizar tracker de pantallas de [[MaquinariasJyS]]
-- [x] Definir siguiente paso técnico de [[MaquinariasJyS]]
-- [x] Revisar si queda algún pendiente técnico en [[QRust Org]]
+- [x] Actualizar tracker de pantallas de [[Bitacora MaquinariasJyS|MaquinariasJyS]]
+- [x] Definir siguiente paso técnico de [[Bitacora MaquinariasJyS|MaquinariasJyS]]
+- [x] Revisar si queda algún pendiente técnico en [[Bitacora QRust|QRust Org]]
 
 ## IA & Dev
 
 - [x] Revisar disponibilidad de Claude Code antes de abrir sesión larga
-- [x] Registrar aprendizaje técnico del merge de [[QRust Org]]
+- [x] Registrar aprendizaje técnico del merge de [[Bitacora QRust|QRust Org]]
 - [ ] Avanzar al menos un bloque corto de JavaScript / TypeScript / framework
 
 ## Personal

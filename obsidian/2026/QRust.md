@@ -1,14 +1,7 @@
 # QRust
 
-## Mapa de conocimiento
+## Seguimiento
 
-- [[QRust - MOC]]
-
-## Cluster
-
-- [[Arquitectura QRust]]
-- [[QRust Org - decisiones]]
-- [[QRust Klippr - entrega TB1]]
-- [[Roadmap QRust]]
+- [[Bitacora QRust]]
 
 Proyecto UPC.

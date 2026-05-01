@@ -1,15 +1,7 @@
 # MaquinariasJyS
 
-## Mapa de conocimiento
+## Seguimiento
 
-- [[MaquinariasJyS - MOC]]
-
-## Cluster
-
-- [[Backend MaquinariasJyS]]
-- [[Modelo Producto MaquinariasJyS]]
-- [[Cloudinary en MaquinariasJyS]]
-- [[Swagger en MaquinariasJyS]]
-- [[Frontend catalogo MaquinariasJyS]]
+- [[Bitacora MaquinariasJyS]]
 
 Proyecto activo. E-commerce de máquinas y herramientas.

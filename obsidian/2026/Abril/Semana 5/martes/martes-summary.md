@@ -15,14 +15,14 @@ relacionado: "[[martes-checkin]]"
 
 ## ⚡ Resumen del día
 
-Martes productivo y con foco fuerte en [[MaquinariasJyS]]: subiste la primera imagen a la nube, con 7 vistas generadas con `gpt-images-2`, inicializaste backend y arquitectura de base de datos, y usaste Claude Code para cerrar avance entre backend y frontend. También repasaste Django, API keys y estructura, además de armar un comando para sincronizar ambos repositorios sin perder contexto. La parte académica quedó desigual: [[Calculo II]] no mostró deuda activa en el check-in, pero [[Estadistica Aplicada]] sigue pendiente con el avance de la DD1 para miércoles. En lo personal fue un buen día de energía, sin somnolencia ni bloqueo, con ejercicio y ánimo alto para documentar avances.
+Martes productivo y con foco fuerte en [[Bitacora MaquinariasJyS|MaquinariasJyS]]: subiste la primera imagen a la nube, con 7 vistas generadas con `gpt-images-2`, inicializaste backend y arquitectura de base de datos, y usaste Claude Code para cerrar avance entre backend y frontend. También repasaste Django, API keys y estructura, además de armar un comando para sincronizar ambos repositorios sin perder contexto. La parte académica quedó desigual: [[Bitacora Calculo II|Calculo II]] no mostró deuda activa en el check-in, pero [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] sigue pendiente con el avance de la DD1 para miércoles. En lo personal fue un buen día de energía, sin somnolencia ni bloqueo, con ejercicio y ánimo alto para documentar avances.
 
 ---
 
 ## 🏆 Logros
 
-- [[MaquinariasJyS]] avanzó con evidencia real: primera imagen subida a la nube y 7 vistas generadas con `gpt-images-2`.
-- Inicializaste backend y arquitectura de base de datos para [[MaquinariasJyS]].
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]] avanzó con evidencia real: primera imagen subida a la nube y 7 vistas generadas con `gpt-images-2`.
+- Inicializaste backend y arquitectura de base de datos para [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 - Claude Code se usó para cerrar avance en backend y conexión con frontend.
 - Armastes un comando para sincronizar ambos repositorios sin perder contexto.
 - Repasaste Django, API keys y estructura.
@@ -30,13 +30,13 @@ Martes productivo y con foco fuerte en [[MaquinariasJyS]]: subiste la primera im
 - Confirmaste que el todolist coincide con lo que realmente pasó.
 - No hubo somnolencia post-almuerzo ni bloqueo emocional/mental.
 - Hiciste ejercicio: push ups, sentadillas, peso muerto al fallo y abdominales.
-- Amaneciste inspirado y con ánimo de documentar avances en Obsidian y [[MaquinariasJyS]].
+- Amaneciste inspirado y con ánimo de documentar avances en Obsidian y [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 
 ---
 
 ## 🚧 Bloqueadores
 
-- [[Estadistica Aplicada]] quedó pendiente: avance de DD1 se mueve explícitamente al miércoles.
+- [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] quedó pendiente: avance de DD1 se mueve explícitamente al miércoles.
 - La reunión / estructura backend C# de [[Aplicaciones Moviles]] no quedó confirmada.
 - Los patrones [[Kotlin]] quedaron pendientes de registro si realmente se extrajeron.
 
@@ -44,11 +44,11 @@ Martes productivo y con foco fuerte en [[MaquinariasJyS]]: subiste la primera im
 
 ## 📌 Pendientes activos
 
-- [ ] Avanzar DD1 de [[Estadistica Aplicada]] el miércoles.
+- [ ] Avanzar DD1 de [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] el miércoles.
 - [ ] Registrar patrones [[Kotlin]] si quedaron extraídos.
 - [ ] Confirmar si hubo reunión backend C# de [[Aplicaciones Moviles]] o moverla al siguiente plan.
-- [ ] Documentar el comando de sincronización de repos de [[MaquinariasJyS]] para Claude Code.
-- [ ] Generar o actualizar evidencia técnica de backend/base de datos de [[MaquinariasJyS]].
+- [ ] Documentar el comando de sincronización de repos de [[Bitacora MaquinariasJyS|MaquinariasJyS]] para Claude Code.
+- [ ] Generar o actualizar evidencia técnica de backend/base de datos de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 
 ---
 
@@ -62,7 +62,7 @@ Martes productivo y con foco fuerte en [[MaquinariasJyS]]: subiste la primera im
 
 ## 🔗 Notas del día
 
-[[martes-checkin]] | [[martes-todolist]] | [[martes-todoreviewer]] | [[lunes-summary]] | [[MaquinariasJyS]] | [[Estadistica Aplicada]] | [[Aplicaciones Moviles]] | [[Kotlin]]
+[[martes-checkin]] | [[martes-todolist]] | [[martes-todoreviewer]] | [[lunes-summary]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]] | [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] | [[Aplicaciones Moviles]] | [[Kotlin]]
 
 ---
 

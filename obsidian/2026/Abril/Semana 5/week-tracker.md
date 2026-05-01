@@ -10,7 +10,7 @@ fecha_fin: 2026-05-03
 score_semana: 0%
 estado: en-curso
 foco_principal: MaquinariasJyS, QRust - Klippr
-riesgo_principal: [[Calculo II]] aparece pendiente 11 días (lunes, lunes, lunes, lunes, martes, ma
+riesgo_principal: [[Bitacora Calculo II|Calculo II]] aparece pendiente 11 días (lunes, lunes, lunes, lunes, martes, ma
 ---
 
 # Semana 5: 0% | MaquinariasJyS, QRust - Klippr | Score basado en 0/58 items
@@ -31,15 +31,15 @@ riesgo_principal: [[Calculo II]] aparece pendiente 11 días (lunes, lunes, lunes
 
 ### Universidad
 
-- [[Calculo II]]: pendiente de revisar
-- [[Estadistica Aplicada]]: pendiente de revisar
+- [[Bitacora Calculo II|Calculo II]]: pendiente de revisar
+- [[Bitacora Estadistica Aplicada|Estadistica Aplicada]]: pendiente de revisar
 - [[Sistemas Operativos]]: pendiente
 - [[Aplicaciones Moviles]]: pendiente
 
 ### Proyectos
 
-- [[MaquinariasJyS]]: activo
-- [[QRust - Klippr]]: mencionado (mencionado)
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]]: activo
+- [[Bitacora QRust|QRust - Klippr]]: mencionado (mencionado)
 
 ### IA & Dev
 
@@ -75,9 +75,9 @@ Semana 5 — 2 días registrados de 7. Score: 0%. Foco principal inferido de arc
 
 ## Riesgos Activos
 
-- [ ] `[[Calculo II]]` aparece pendiente 11 días (lunes, lunes, lunes, lunes, martes, martes, martes, martes, martes, martes, martes)
-- [ ] `[[Estadistica Aplicada]]` aparece pendiente 6 días (lunes, lunes, martes, martes, martes, martes)
-- [ ] `[[MaquinariasJyS]]` aparece pendiente 14 días (lunes, lunes, lunes, lunes, lunes, martes, martes, martes, martes, martes, martes, martes, martes, martes)
+- [ ] `[[Bitacora Calculo II|Calculo II]]` aparece pendiente 11 días (lunes, lunes, lunes, lunes, martes, martes, martes, martes, martes, martes, martes)
+- [ ] `[[Bitacora Estadistica Aplicada|Estadistica Aplicada]]` aparece pendiente 6 días (lunes, lunes, martes, martes, martes, martes)
+- [ ] `[[Bitacora MaquinariasJyS|MaquinariasJyS]]` aparece pendiente 14 días (lunes, lunes, lunes, lunes, lunes, martes, martes, martes, martes, martes, martes, martes, martes, martes)
 - [ ] `[[Sistemas Operativos]]` aparece pendiente 2 días (lunes, martes)
 
 ---

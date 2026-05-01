@@ -12,7 +12,11 @@ created: 2026-05-01
 
 # Calculo II - MOC
 
-Mapa para convertir apuntes, repasos y ejercicios en conceptos reutilizables de [[Calculo II]].
+Mapa para convertir apuntes, repasos y ejercicios en conceptos reutilizables de Calculo II.
+
+## Seguimiento
+
+- [[Bitacora Calculo II]]
 
 ## Conceptos nucleares
 

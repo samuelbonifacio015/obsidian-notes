@@ -15,16 +15,16 @@ relacionado: "[[domingo-checkin]]"
 
 ## ⚡ Resumen del día
 
-Domingo enfocado en cerrar Semana 4 con avance real en [[Calculo II]]: ejecutaste una simulación de EU1 sin guía paso a paso y corregiste errores de superficies, dominios, gráficas y razonamiento cuantitativo. También revisaste Blackboard UPC y usaste Deepseek / modelo local como mentor de corrección, no como sustituto del estudio. El arranque de Semana 5 quedó parcialmente preparado, pero [[Estadistica Aplicada]], `admin/orders` de [[MaquinariasJyS]] y [[lunes-todolist]] siguen abiertos.
+Domingo enfocado en cerrar Semana 4 con avance real en [[Bitacora Calculo II|Calculo II]]: ejecutaste una simulación de EU1 sin guía paso a paso y corregiste errores de superficies, dominios, gráficas y razonamiento cuantitativo. También revisaste Blackboard UPC y usaste Deepseek / modelo local como mentor de corrección, no como sustituto del estudio. El arranque de Semana 5 quedó parcialmente preparado, pero [[Bitacora Estadistica Aplicada|Estadistica Aplicada]], `admin/orders` de [[Bitacora MaquinariasJyS|MaquinariasJyS]] y [[lunes-todolist]] siguen abiertos.
 
 ---
 
 ## 🏆 Logros
 
-- Simulación real de [[Calculo II]] EU1 ejecutada sin guía paso a paso.
+- Simulación real de [[Bitacora Calculo II|Calculo II]] EU1 ejecutada sin guía paso a paso.
 - Corrección de errores en superficies, dominios, gráficas y razonamiento cuantitativo.
 - Revisión de Blackboard UPC completada: anuncios, fechas y materiales nuevos.
-- Uso de Deepseek / modelo local como mentor de corrección para [[Calculo II]], sin delegar toda la resolución.
+- Uso de Deepseek / modelo local como mentor de corrección para [[Bitacora Calculo II|Calculo II]], sin delegar toda la resolución.
 - Patrón aprendido de la práctica de Cálculo documentado en Obsidian.
 - Cierre personal marcado: objetivo de 8k pasos o registro honesto completado.
 
@@ -32,20 +32,20 @@ Domingo enfocado en cerrar Semana 4 con avance real en [[Calculo II]]: ejecutast
 
 ## 🚧 Bloqueadores
 
-- [[Estadistica Aplicada]] quedó sin revisión y sin estado claro de primera entrega.
-- [[MaquinariasJyS]] quedó en preparación parcial: falta revisar `admin/orders` y definir checklist del primer avance frontend.
+- [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] quedó sin revisión y sin estado claro de primera entrega.
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]] quedó en preparación parcial: falta revisar `admin/orders` y definir checklist del primer avance frontend.
 - Cierre semanal incompleto: falta preparar [[lunes-todolist]] y terminar de ordenar pendientes para Semana 5.
 
 ---
 
 ## 📌 Pendientes activos
 
-- [ ] Revisar material pendiente de [[Estadistica Aplicada]] y listar entregables concretos.
-- [ ] Revisar `admin/orders` en [[MaquinariasJyS]] y anotar ajustes visuales.
-- [ ] Definir checklist del primer avance frontend de [[MaquinariasJyS]] para Semana 5.
+- [ ] Revisar material pendiente de [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] y listar entregables concretos.
+- [ ] Revisar `admin/orders` en [[Bitacora MaquinariasJyS|MaquinariasJyS]] y anotar ajustes visuales.
+- [ ] Definir checklist del primer avance frontend de [[Bitacora MaquinariasJyS|MaquinariasJyS]] para Semana 5.
 - [ ] Preparar [[lunes-todolist]].
-- [ ] Confirmar si Claude Code estará disponible para un bloque corto de [[MaquinariasJyS]].
-- [ ] Completar qué quedó flojo después de la simulación de [[Calculo II]].
+- [ ] Confirmar si Claude Code estará disponible para un bloque corto de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
+- [ ] Completar qué quedó flojo después de la simulación de [[Bitacora Calculo II|Calculo II]].
 
 ---
 

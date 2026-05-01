@@ -15,15 +15,15 @@ relacionado: "[[miercoles-checkin]]"
 
 ## ⚡ Resumen del día
 
-Miércoles productivo y enfocado casi por completo en [[MaquinariasJyS]]: lograste hits concretos y verificables — la instancia de imágenes con Cloudinary conectada a la BD, el primer producto mostrando imágenes reales desde la nube en el frontend, y el backend completo con endpoints documentados en Swagger. Fue un avance real, no solo intención. Del lado académico, [[Estadistica Aplicada]] se quedó pendiente otra vez: los talleres y la documentación no se tocaron. En lo personal cerraste bien el día con Obsidian al día: pendientes del miércoles registrados, tareas del jueves planificadas y week-tracker actualizado.
+Miércoles productivo y enfocado casi por completo en [[Bitacora MaquinariasJyS|MaquinariasJyS]]: lograste hits concretos y verificables — la instancia de imágenes con Cloudinary conectada a la BD, el primer producto mostrando imágenes reales desde la nube en el frontend, y el backend completo con endpoints documentados en Swagger. Fue un avance real, no solo intención. Del lado académico, [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] se quedó pendiente otra vez: los talleres y la documentación no se tocaron. En lo personal cerraste bien el día con Obsidian al día: pendientes del miércoles registrados, tareas del jueves planificadas y week-tracker actualizado.
 
 ---
 
 ## 🏆 Logros
 
-- [[MaquinariasJyS]] — Conectaste Cloudinary con la BD y agregaste la instancia de imágenes.
-- [[MaquinariasJyS]] — Primer producto con imágenes reales desde la nube visible en el frontend.
-- [[MaquinariasJyS]] — Backend completo con endpoints documentados en Swagger.
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Conectaste Cloudinary con la BD y agregaste la instancia de imágenes.
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Primer producto con imágenes reales desde la nube visible en el frontend.
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Backend completo con endpoints documentados en Swagger.
 - Actualizaste los pendientes del miércoles en Obsidian.
 - Definiste pendientes para el jueves y cerraste con check de progreso semanal.
 - Actualizaste el [[week-tracker]] con el progreso de la semana.
@@ -32,15 +32,15 @@ Miércoles productivo y enfocado casi por completo en [[MaquinariasJyS]]: logras
 
 ## 🚧 Bloqueadores
 
-- [[Estadistica Aplicada]] sigue sin avance: talleres y documentación de DD1 se quedaron fuera por tercer día consecutivo.
-- El avance de [[MaquinariasJyS]] fue fuerte pero el proyecto tiene deuda acumulada de 14+ días de arrastre.
+- [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] sigue sin avance: talleres y documentación de DD1 se quedaron fuera por tercer día consecutivo.
+- El avance de [[Bitacora MaquinariasJyS|MaquinariasJyS]] fue fuerte pero el proyecto tiene deuda acumulada de 14+ días de arrastre.
 
 ---
 
 ## 📌 Pendientes activos
 
-- [ ] Avanzar DD1 de [[Estadistica Aplicada]] (talleres + documentación en Google Docs).
-- [ ] Revisar si [[Calculo II]] requiere atención post-EU1.
+- [ ] Avanzar DD1 de [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] (talleres + documentación en Google Docs).
+- [ ] Revisar si [[Bitacora Calculo II|Calculo II]] requiere atención post-EU1.
 - [ ] Preparar [[PC2 de Sistemas Operativos el domingo]] si aplica.
 - [ ] Cerrar [[miercoles-todoreviewer]] con evidencia real.
 - [ ] Generar [[miercoles-checkin]] y [[miercoles-summary]].
@@ -57,7 +57,7 @@ Miércoles productivo y enfocado casi por completo en [[MaquinariasJyS]]: logras
 
 ## 🔗 Notas del día
 
-[[miercoles-checkin]] | [[miercoles-todolist]] | [[martes-summary]] | [[MaquinariasJyS]] | [[Estadistica Aplicada]] | [[Cloudinary]] | [[week-tracker]]
+[[miercoles-checkin]] | [[miercoles-todolist]] | [[martes-summary]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]] | [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] | [[Bitacora MaquinariasJyS|Cloudinary]] | [[week-tracker]]
 
 ---
 

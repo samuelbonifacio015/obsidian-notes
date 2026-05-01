@@ -15,16 +15,16 @@ relacionado: "[[viernes-checkin]]"
 
 ## ⚡ Resumen del día
 
-Viernes centrado en cerrar [[QRust]]: terminaste el TB1, hiciste el envío y sustentación de [[QRust - Klippr]], y resolviste el merge de ramas en [[QRust Org]]. También hubo avance real en [[MaquinariasJyS]] con las últimas 2 pantallas y cierre de mantenimiento en Obsidian. No se tocaron Cálculo, Estadística, Braymar ni módulos JS/TS; el día fue productivo, pero absorbido por la entrega académica principal.
+Viernes centrado en cerrar [[Bitacora QRust|QRust]]: terminaste el TB1, hiciste el envío y sustentación de [[Bitacora QRust|QRust - Klippr]], y resolviste el merge de ramas en [[Bitacora QRust|QRust Org]]. También hubo avance real en [[Bitacora MaquinariasJyS|MaquinariasJyS]] con las últimas 2 pantallas y cierre de mantenimiento en Obsidian. No se tocaron Cálculo, Estadística, Braymar ni módulos JS/TS; el día fue productivo, pero absorbido por la entrega académica principal.
 
 ---
 
 ## 🏆 Logros
 
-- 🏆 Terminé TB1 de [[QRust]] y cerré la entrega final de Aplicaciones Móviles.
-- Envío y sustentación del proyecto [[QRust - Klippr]] completados.
-- Merge de ramas exitoso en [[QRust Org]].
-- Avance de [[MaquinariasJyS]] en las últimas 2 pantallas.
+- 🏆 Terminé TB1 de [[Bitacora QRust|QRust]] y cerré la entrega final de Aplicaciones Móviles.
+- Envío y sustentación del proyecto [[Bitacora QRust|QRust - Klippr]] completados.
+- Merge de ramas exitoso en [[Bitacora QRust|QRust Org]].
+- Avance de [[Bitacora MaquinariasJyS|MaquinariasJyS]] en las últimas 2 pantallas.
 - Sincronización y review de Obsidian completadas; quedaron registradas [[viernes-todolist]], [[viernes-todoreviewer]], [[viernes-summary]] y [[viernes-checkin]].
 - 8k pasos; amanecí con mejor energía de la esperada pese a dormir a las 12:30am.
 
@@ -40,8 +40,8 @@ Viernes centrado en cerrar [[QRust]]: terminaste el TB1, hiciste el envío y sus
 
 ## 📌 Pendientes activos
 
-- [ ] Registrar feedback o decisiones posteriores a la sustentación de [[QRust - Klippr]].
-- [ ] Documentar qué pantallas finales avanzaron en [[MaquinariasJyS]].
+- [ ] Registrar feedback o decisiones posteriores a la sustentación de [[Bitacora QRust|QRust - Klippr]].
+- [ ] Documentar qué pantallas finales avanzaron en [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 - [ ] Preparar plan de sábado desde el cierre de pendientes.
 
 ---

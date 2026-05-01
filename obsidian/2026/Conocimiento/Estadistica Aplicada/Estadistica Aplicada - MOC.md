@@ -12,7 +12,11 @@ created: 2026-05-01
 
 # Estadistica Aplicada - MOC
 
-Mapa para transformar talleres, apuntes y ejemplos de [[Estadistica Aplicada]] en conceptos reutilizables.
+Mapa para transformar talleres, apuntes y ejemplos de Estadistica Aplicada en conceptos reutilizables.
+
+## Seguimiento
+
+- [[Bitacora Estadistica Aplicada]]
 
 ## Conceptos nucleares
 

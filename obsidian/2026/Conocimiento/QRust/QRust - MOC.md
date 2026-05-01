@@ -12,7 +12,11 @@ created: 2026-05-01
 
 # QRust - MOC
 
-Mapa para separar decisiones, arquitectura y aprendizajes del proyecto [[QRust]].
+Mapa para separar decisiones, arquitectura y aprendizajes del proyecto QRust.
+
+## Seguimiento
+
+- [[Bitacora QRust]]
 
 ## Arquitectura y decisiones
 

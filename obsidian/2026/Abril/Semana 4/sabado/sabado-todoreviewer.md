@@ -11,30 +11,30 @@ relacionado: "[[sabado-todolist]]"
 
 ## 🎯 Top Prioridades del día
 
-1. [x] **[[QRust - Klippr]]** — Registrar feedback o decisiones posteriores a la sustentación.
-2. [x] **[[MaquinariasJyS]]** — Documentar y complementar la última pantalla pendiente: `admin/orders`.
-3. [x] **Plan académico UPC** — Preparar recuperación para [[Cálculo II]], [[Estadística Aplicada]] y pendientes UPC.
+1. [x] **[[Bitacora QRust|QRust - Klippr]]** — Registrar feedback o decisiones posteriores a la sustentación.
+2. [x] **[[Bitacora MaquinariasJyS|MaquinariasJyS]]** — Documentar y complementar la última pantalla pendiente: `admin/orders`.
+3. [x] **Plan académico UPC** — Preparar recuperación para [[Bitacora Calculo II|Cálculo II]], [[Bitacora Estadistica Aplicada|Estadística Aplicada]] y pendientes UPC.
 
 ## 📚 Universidad
 
-- [x] [[QRust - Klippr]] — Estado post-entrega revisado.
-- [x] [[Cálculo II]] — EU1 estudiada con foco en superficies, dominios y gráficas.
+- [x] [[Bitacora QRust|QRust - Klippr]] — Estado post-entrega revisado.
+- [x] [[Bitacora Calculo II|Cálculo II]] — EU1 estudiada con foco en superficies, dominios y gráficas.
 - [x] Blackboard UPC — Revisado; sin novedades.
-- [ ] [[Estadística Aplicada]] — Sin avance.
+- [ ] [[Bitacora Estadistica Aplicada|Estadística Aplicada]] — Sin avance.
 - [ ] [[Sistemas Operativos]] — Sin avance registrado.
 - [ ] [[Aplicaciones Móviles]] — Sin avance el sábado; el trabajo fuerte fue el viernes.
 
 ## 🛠️ Proyectos
 
-- [x] [[MaquinariasJyS]] — Última pantalla pendiente complementada: `admin/orders`, código y diseño estático.
-- [x] [[MaquinariasJyS]] — Siguiente paso técnico revisado desde el tracker.
-- [x] [[QRust Org]] — Pendientes técnicos revisados después del merge.
-- [x] [[QRust - Klippr]] — Prompt pequeño para hover del iPhone en la landing page.
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Última pantalla pendiente complementada: `admin/orders`, código y diseño estático.
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Siguiente paso técnico revisado desde el tracker.
+- [x] [[Bitacora QRust|QRust Org]] — Pendientes técnicos revisados después del merge.
+- [x] [[Bitacora QRust|QRust - Klippr]] — Prompt pequeño para hover del iPhone en la landing page.
 
 ## 🤖 IA & Dev
 
-- [x] Claude Code — Usado en [[MaquinariasJyS]].
-- [x] Modelos locales / Deepseek — Exploración de `llama.cpp` y Deepseek V4-Pro-Max para mentor interactivo de [[Cálculo II]].
+- [x] Claude Code — Usado en [[Bitacora MaquinariasJyS|MaquinariasJyS]].
+- [x] Modelos locales / Deepseek — Exploración de `llama.cpp` y Deepseek V4-Pro-Max para mentor interactivo de [[Bitacora Calculo II|Cálculo II]].
 - [ ] Aprendizaje técnico documentado — No quedó concepto técnico nuevo documentado en Obsidian.
 - [ ] JavaScript / TypeScript / framework — Bloque corto pendiente.
 
@@ -52,11 +52,11 @@ relacionado: "[[sabado-todolist]]"
 
 | # | Tarea | Estado | Lectura del avance |
 |---|---|---|---|
-| 1 | Estudiar [[Cálculo II]] EU1 | Completado parcial | Fue el foco principal; avanzaste superficies, dominios y gráficas, pero el readiness quedó en 5/10. |
+| 1 | Estudiar [[Bitacora Calculo II|Cálculo II]] EU1 | Completado parcial | Fue el foco principal; avanzaste superficies, dominios y gráficas, pero el readiness quedó en 5/10. |
 | 2 | Revisar Blackboard UPC | Completado | No hubo novedades nuevas. |
-| 3 | Revisar [[Estadística Aplicada]] | Pendiente | Sigue siendo deuda académica activa. |
-| 4 | Complementar `admin/orders` en [[MaquinariasJyS]] | Completado | Última pantalla pendiente trabajada en código y diseño estático. |
-| 5 | Revisar estado de [[QRust - Klippr]] / [[QRust Org]] | Completado | Estado post-entrega y pendientes técnicos revisados. |
+| 3 | Revisar [[Bitacora Estadistica Aplicada|Estadística Aplicada]] | Pendiente | Sigue siendo deuda académica activa. |
+| 4 | Complementar `admin/orders` en [[Bitacora MaquinariasJyS|MaquinariasJyS]] | Completado | Última pantalla pendiente trabajada en código y diseño estático. |
+| 5 | Revisar estado de [[Bitacora QRust|QRust - Klippr]] / [[Bitacora QRust|QRust Org]] | Completado | Estado post-entrega y pendientes técnicos revisados. |
 | 6 | Probar modelos locales para mentor de Cálculo | Completado | Deepseek V4-Pro-Max y `llama.cpp` conectados al objetivo académico. |
 | 7 | Registrar energía/sueño en [[sabado-checkin]] | Completado | Sueño, energía, pasos y bloqueo mental quedaron registrados. |
 | 8 | Generar [[sabado-summary]] y [[sabado-todoreviewer]] | Completado | Cierre documental del sábado materializado. |
@@ -80,10 +80,10 @@ relacionado: "[[sabado-todolist]]"
 
 ## 🔗 Notas relacionadas a crear/linkear hoy
 
-- [[Cálculo II]] — nota de EU1 con superficies, dominios, gráficas y errores frecuentes.
+- [[Bitacora Calculo II|Cálculo II]] — nota de EU1 con superficies, dominios, gráficas y errores frecuentes.
 - [[Razonamiento Cuantitativo]] — bloque de práctica para simulación real.
-- [[MaquinariasJyS]] — estado de `admin/orders` y tracker de pantallas.
-- [[QRust - Klippr]] — feedback o decisiones posteriores a sustentación.
+- [[Bitacora MaquinariasJyS|MaquinariasJyS]] — estado de `admin/orders` y tracker de pantallas.
+- [[Bitacora QRust|QRust - Klippr]] — feedback o decisiones posteriores a sustentación.
 - [[sabado-checkin]] — fuente del cierre diario.
 - [[sabado-summary]] — resumen ejecutivo del sábado.
 

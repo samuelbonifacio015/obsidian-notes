@@ -1,14 +1,7 @@
 # Cálculo II
 
-## Mapa de conocimiento
+## Seguimiento
 
-- [[Calculo II - MOC]]
-
-## Cluster
-
-- [[Integrales dobles]]
-- [[Regiones tipo I y tipo II]]
-- [[Coordenadas polares]]
-- [[Superficies cuadricas]]
+- [[Bitacora Calculo II]]
 
 Curso UPC Ciclo 6.

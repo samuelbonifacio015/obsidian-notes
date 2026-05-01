@@ -12,31 +12,31 @@ fecha: 2026-04-27
 
 ## Top 3
 
-- [x] [[Calculo II]] - Subir readiness de EU1 de 5/10 a 7/10 con practica corregida
-- [ ] [[Estadistica Aplicada]] - Avanzar primera entrega del proyecto con un entregable visible
-- [x] [[MaquinariasJyS]] - Iniciar primer avance frontend de Semana 5
+- [x] [[Bitacora Calculo II|Calculo II]] - Subir readiness de EU1 de 5/10 a 7/10 con practica corregida
+- [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] - Avanzar primera entrega del proyecto con un entregable visible
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Iniciar primer avance frontend de Semana 5
 
 ## Universidad
 
-- [x] [[Calculo II]] - Resolver bloque de ejercicios de superficies, dominios y graficas sin ayuda inicial
-- [x] [[Calculo II]] - Hacer correccion activa: registrar errores frecuentes y formulas clave
+- [x] [[Bitacora Calculo II|Calculo II]] - Resolver bloque de ejercicios de superficies, dominios y graficas sin ayuda inicial
+- [x] [[Bitacora Calculo II|Calculo II]] - Hacer correccion activa: registrar errores frecuentes y formulas clave
 - [x] [[Razonamiento Cuantitativo]] - Completar un bloque corto tipo examen
-- [ ] [[Estadistica Aplicada]] - Definir dataset/problema, estructura de entrega y siguiente tarea
+- [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] - Definir dataset/problema, estructura de entrega y siguiente tarea
 - [x] [[Sistemas Operativos]] - Revisar estado de PC1 / temas pendientes
-- [x] [[Aplicaciones Moviles]] - Confirmar si hay pendiente posterior al TB1 de [[QRust - Klippr]]
+- [x] [[Aplicaciones Moviles]] - Confirmar si hay pendiente posterior al TB1 de [[Bitacora QRust|QRust - Klippr]]
 - [x] Blackboard UPC - Revisar fechas criticas de Semana 5
 
 ## Proyectos
 
-- [x] [[MaquinariasJyS]] - Elegir el flujo frontend principal para el primer avance
-- [x] [[MaquinariasJyS]] - Convertir una pantalla validada en avance funcional basico
-- [x] [[MaquinariasJyS]] - Actualizar tracker de pantallas y estado de `admin/orders`
-- [x] [[QRust Org]] - Registrar decisiones tecnicas pendientes si quedaron despues del merge
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Elegir el flujo frontend principal para el primer avance
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Convertir una pantalla validada en avance funcional basico
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Actualizar tracker de pantallas y estado de `admin/orders`
+- [x] [[Bitacora QRust|QRust Org]] - Registrar decisiones tecnicas pendientes si quedaron despues del merge
 
 ## IA & Dev
 
-- [x] Usar Claude Code solo con scope cerrado para [[MaquinariasJyS]]
-- [x] Usar modelo/mentor de [[Calculo II]] para revisar errores despues de intentar ejercicios
+- [x] Usar Claude Code solo con scope cerrado para [[Bitacora MaquinariasJyS|MaquinariasJyS]]
+- [x] Usar modelo/mentor de [[Bitacora Calculo II|Calculo II]] para revisar errores despues de intentar ejercicios
 - [ ] Documentar una nota tecnica o academica nueva en Obsidian
 
 ## Productividad
@@ -57,4 +57,4 @@ fecha: 2026-04-27
 - [x] Revisar que entregable visible quedo en Estadistica o MJYS
 - [x] Preparar [[martes-todolist]]
 
-Hoy arranca Semana 5: primero examenes UPC, luego avance frontend de [[MaquinariasJyS]].
+Hoy arranca Semana 5: primero examenes UPC, luego avance frontend de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
