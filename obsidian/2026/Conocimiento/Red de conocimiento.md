@@ -26,8 +26,6 @@ Clusters activos:
 - Estadistica Aplicada: MOC, bitacora y conceptos atomicos.
 - MaquinariasJyS: MOC, bitacora, decisiones e integraciones.
 - QRust: MOC, bitacora, arquitectura y revisiones.
-- Microcursos IA: MOC, arquitectura de producto, verticales, riesgos y estrategia.
-
 ## Regla de enlace
 
 - Los `*-todolist`, `*-checkin` y `*-summary` deberian enlazar a la bitacora del dominio, no al MOC ni a cada concepto.
