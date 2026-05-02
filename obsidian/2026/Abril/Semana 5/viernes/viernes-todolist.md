@@ -5,15 +5,13 @@
 
 ## Top 3
 
-- [ ] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Incorporar feedback del cliente: logo, banner del giro, descripciones de productos.
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Incorporar feedback del cliente: logo, banner del giro, descripciones de productos.
 - [ ] [[Bitacora QRust|Kliprr - Backend]] - Usar Claude Code para avanzar el backend (scope cerrado).
 - [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] - Elegir dataset y escribir estructura de la DD1. **Es urgente — lleva 4 días sin avance.**
 
 ## Universidad
 
 - [ ] [[Sistemas Operativos]] - Revisar requirement del informe de PC2 (entrega domingo, no es examen).
-- [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] - Elegir dataset y escribir estructura de la DD1.
-- [ ] [[Bitacora Calculo II|Calculo II]] - Continuar con [[Razonamiento Cuantitativo]] si hay tiempo.
 - [ ] Blackboard UPC - Revisar anuncios/materiales nuevos.
 
 ## Proyectos
@@ -27,12 +25,14 @@
 
 - [ ] Claude Code - Scope cerrado para [[Bitacora QRust|Kliprr - Backend]] (prioridad).
 - [ ] Documentar aprendizaje técnico en Obsidian si aparece (bounded contexts, etc.).
+- [ ] [[Klippr-Backend]] 30% del Bounded Context y entender la lógica de negocio
 
 ## Personal
 
 - [ ] Pasos / caminata / ejercicio (mantener racha de movimiento).
 - [ ] Dormir temprano para rendir el fin de semana.
 - [ ] Mantener el ritmo de sueño (12:00 AM → 6:30 AM).
+- [ ] [[La AgencIA]] ideas y brainstorming con Claude.
 
 ## Cierre
 
