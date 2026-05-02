@@ -6,6 +6,7 @@
 ## Top 3
 
 - [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Incorporar feedback del cliente: logo, banner del giro, descripciones de productos.
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] - Añadir 2 productos más a la base de datos y Cloudinary. ✅
 - [ ] [[Bitacora QRust|Kliprr - Backend]] - Usar Claude Code para avanzar el backend (scope cerrado).
 - [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] - Elegir dataset y escribir estructura de la DD1. **Es urgente — lleva 4 días sin avance.**
 
@@ -29,6 +30,7 @@
 
 ## Personal
 
+- [x] Identificar en qué pierdo tiempo efectivamente — logrado ✅
 - [ ] Pasos / caminata / ejercicio (mantener racha de movimiento).
 - [ ] Dormir temprano para rendir el fin de semana.
 - [ ] Mantener el ritmo de sueño (12:00 AM → 6:30 AM).
