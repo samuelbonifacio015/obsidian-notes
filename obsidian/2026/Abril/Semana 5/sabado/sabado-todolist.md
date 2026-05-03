@@ -47,8 +47,9 @@
 
 ## ✅ Cierre
 
-- [ ] Generar [[sabado-checkin]] al final del día.
-- [ ] Dejar [[2026/Abril/Semana 4/domingo/domingo-todolist]] listo si quedan pendientes.
+- [x] Generar [[sabado-checkin]] al final del día.
+- [x] Generar [[sabado-summary]] si aplica.
+- [x] Dejar [[2026/Abril/Semana 5/domingo/domingo-todolist]] listo si quedan pendientes.
 - [x] Subir lo avanzado de SO a GitHub / drive si aplica.
 
 ---

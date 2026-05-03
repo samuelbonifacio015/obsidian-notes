@@ -2,7 +2,7 @@
 tags: [daily-checkin]
 fecha: 2026-05-01
 dia: viernes
-estado: inferido-desde-todolist
+estado: respondido-desde-todolist-y-summary
 relacionado: "[[viernes-todolist]]"
 ---
 
@@ -12,6 +12,12 @@ relacionado: "[[viernes-todolist]]"
 > Base tomada de [[viernes-todolist]], [[jueves-checkin]] y [[jueves-summary]].
 >
 > Viernes enfocado en [[Bitacora MaquinariasJyS|MaquinariasJyS]]: feedback del cliente incorporado + 2 productos más en BD y Cloudinary. También identificó fugas de tiempo para corregirlas.
+
+---
+
+## Estado de respuesta
+
+Check-in actualizado como respondido desde evidencia del [[viernes-todolist]] y consolidado para sostener [[viernes-summary]]. No hay respuesta manual adicional registrada para este dia; lo marcado como hecho/no hecho sale de los checks y del contexto cercano.
 
 ---
 
@@ -144,7 +150,7 @@ relacionado: "[[viernes-todolist]]"
 - [ ] Avanzar [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] — dataset + DD1
 - [ ] Revisar y preparar informe [[PC2 Sistemas Operativos]] para el domingo
 - [ ] Planificar WhatsApp automation con Ernest
-- [ ] Generar [[sabado-todolist]] con foco en SO (informe PC2)
+- [x] Generar [[sabado-todolist]] con foco en SO (informe PC2)
 
 ---
 

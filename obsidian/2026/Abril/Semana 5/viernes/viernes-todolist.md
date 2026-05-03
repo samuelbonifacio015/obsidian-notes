@@ -38,9 +38,9 @@
 
 ## Cierre
 
-- [ ] Generar [[viernes-checkin]] al final del día.
-- [ ] Generar [[viernes-summary]] si aplica.
-- [ ] Preparar [[sabado-todolist]] con foco en SO (informe PC2).
+- [x] Generar [[viernes-checkin]] al final del día.
+- [x] Generar [[viernes-summary]] si aplica.
+- [x] Preparar [[sabado-todolist]] con foco en SO (informe PC2).
 
 ---
 
