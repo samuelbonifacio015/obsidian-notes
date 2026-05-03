@@ -103,7 +103,7 @@ Contexto inferido desde [[lunes-todolist]]: aparece marcado el uso de Claude Cod
 
 ## 📋 Productividad
 
-Contexto inferido desde [[lunes-todolist]]: aparecen marcados la revisión de [[domingo-todolist]], la actualización del plan semanal de Semana 5, la creación o cierre de [[lunes-checkin]] y la preparación de [[martes-todolist]].
+Contexto inferido desde [[lunes-todolist]]: aparecen marcados la revisión de [[2026/Abril/Semana 4/domingo/domingo-todolist]], la actualización del plan semanal de Semana 5, la creación o cierre de [[lunes-checkin]] y la preparación de [[martes-todolist]].
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 

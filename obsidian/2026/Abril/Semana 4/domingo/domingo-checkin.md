@@ -1,15 +1,16 @@
 ---
-tags: [daily-checkin]
+tags:
+  - daily-checkin
 fecha: 2026-04-26
 dia: domingo
 estado: inferido-desde-todolist
-relacionado: "[[domingo-todolist]]"
+relacionado: "[[2026/Abril/Semana 4/domingo/domingo-todolist]]"
 ---
 
 # 🐒 Daily Check-in — Domingo, 26 de Abril de 2026
 
 > 🐒 Check-in del domingo, 26 de abril.
-> Base tomada de [[domingo-todolist]].
+> Base tomada de [[2026/Abril/Semana 4/domingo/domingo-todolist]].
 >
 > Hoy el foco fue cerrar Semana 4 y preparar el arranque de Semana 5.
 
@@ -49,7 +50,7 @@ relacionado: "[[domingo-todolist]]"
 
 **[ac-05]** ¿Tocaste Aplicaciones Móviles? ¿Practicaste código o fue teoría?
 
-> R: No registrado en [[domingo-todolist]].
+> R: No registrado en [[2026/Abril/Semana 4/domingo/domingo-todolist]].
 
 **[ac-06]** ¿Hay alguna entrega o examen próximo que debas preparar?
 
@@ -97,7 +98,7 @@ relacionado: "[[domingo-todolist]]"
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
-> R: Sí. Quedó creado [[domingo-todolist]] y este [[domingo-checkin]].
+> R: Sí. Quedó creado [[2026/Abril/Semana 4/domingo/domingo-todolist]] y este [[domingo-checkin]].
 
 **[pd-02]** ¿Actualizaste o creaste alguna nota en Obsidian?
 

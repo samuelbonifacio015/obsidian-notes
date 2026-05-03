@@ -267,9 +267,9 @@ generated: 2026-04-29 21:20
 | `2026/Abril/Semana 5/week-tracker.md` | 139 | `[[MaquinariasJyS]]` | `- [[MaquinariasJyS]]: `admin/orders` pasa de cierre visual a` |
 | `2026/Abril/Semana 5/week-tracker.md` | 144 | `[[MaquinariasJyS]]` | `- Claude Code debe usarse con scope cerrado en [[Maquinarias` |
 | `2026/Abril/Semana 5/week-tracker.md` | 145 | `[[Calculo II]]` | `- El mentor IA de [[Calculo II]] debe revisar despues del in` |
-| `2026/Abril/Semana 5/week-tracker.md` | 157 | `[[Calculo II]]` | `[[lunes-todolist]] | [[domingo-todolist]] | [[sabado-summary` |
-| `2026/Abril/Semana 5/week-tracker.md` | 157 | `[[Estadistica Aplicada]]` | `[[lunes-todolist]] | [[domingo-todolist]] | [[sabado-summary` |
-| `2026/Abril/Semana 5/week-tracker.md` | 157 | `[[MaquinariasJyS]]` | `[[lunes-todolist]] | [[domingo-todolist]] | [[sabado-summary` |
+| `2026/Abril/Semana 5/week-tracker.md` | 157 | `[[Calculo II]]` | `[[lunes-todolist]] | [[2026/Abril/Semana 4/domingo/domingo-todolist]] | [[sabado-summary` |
+| `2026/Abril/Semana 5/week-tracker.md` | 157 | `[[Estadistica Aplicada]]` | `[[lunes-todolist]] | [[2026/Abril/Semana 4/domingo/domingo-todolist]] | [[sabado-summary` |
+| `2026/Abril/Semana 5/week-tracker.md` | 157 | `[[MaquinariasJyS]]` | `[[lunes-todolist]] | [[2026/Abril/Semana 4/domingo/domingo-todolist]] | [[sabado-summary` |
 | `2026/Daily/2026-04-08.md` | 77 | `[[2026-04-07]]` | `_← [[2026-04-07]] · [[2026-W15-plan]] · [[2026-04-09]] →_` |
 | `2026/Daily/2026-04-08.md` | 77 | `[[2026-W15-plan]]` | `_← [[2026-04-07]] · [[2026-W15-plan]] · [[2026-04-09]] →_` |
 | `2026/Daily/2026-04-08.md` | 77 | `[[2026-04-09]]` | `_← [[2026-04-07]] · [[2026-W15-plan]] · [[2026-04-09]] →_` |

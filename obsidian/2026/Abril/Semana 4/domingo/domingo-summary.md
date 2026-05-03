@@ -59,7 +59,7 @@ Domingo enfocado en cerrar Semana 4 con avance real en [[Bitacora Calculo II|Cal
 
 ## 🔗 Notas del día
 
-[[domingo-checkin]] | [[domingo-todolist]]
+[[domingo-checkin]] | [[2026/Abril/Semana 4/domingo/domingo-todolist]]
 
 ---
 

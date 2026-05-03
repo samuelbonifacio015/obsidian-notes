@@ -7,16 +7,16 @@
 
 - [ ] [[Sistemas Operativos|Sistemas Operativos]] — **PC2: Informe** (entrega mañana domingo). Prioridad #1 absoluta.
 - [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] — Elegir dataset y escribir estructura de la DD1. **Urgente — lleva 5+ días sin avance.**
-- [ ] [[Bitacora QRust|Kliprr - Backend]] — Claude Code con scope cerrado (si sobra tiempo después de SO).
+- [x] [[Bitacora QRust|Kliprr - Backend]] — Claude Code con scope cerrado (si sobra tiempo después de SO).
 
 ## 🎓 Universidad
 
 ### 🔴 Sistemas Operativos — PC2 (entrega mañana domingo)
-- [ ] Leer requirements del informe PC2.
-- [ ] Definir estructura del informe (índice, secciones).
-- [ ] Redactar introducción y marco teórico.
-- [ ] Desarrollo / experimentación si aplica.
-- [ ] Conclusiones y referencias.
+- [x] Leer requirements del informe PC2.
+- [x] Definir estructura del informe (índice, secciones).
+- [x] Redactar introducción y marco teórico.
+- [x] Desarrollo / experimentación si aplica.
+- [x] Conclusiones y referencias.
 - [ ] Revisar formato y exportar.
 
 ### 🟡 Estadística Aplicada — DD1
@@ -26,29 +26,29 @@
 - [ ] Subir a NotebookLM si es necesario.
 
 ### ⚪ Aplicaciones Móviles / Cálculo II
-- [ ] Revisar si hay algo pendiente urgente.
-- [ ] Blackboard UPC — anuncios nuevos.
+- [x] Revisar si hay algo pendiente urgente.
+- [x] Blackboard UPC — anuncios nuevos.
 
 ## 🏗️ Proyectos
 
-- [ ] [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Si quedó algo de feedback del cliente.
-- [ ] [[Bitacora QRust|Kliprr - Backend]] — Claude Code (solo si SO + Estadística están encaminados).
+- [x] [[Bitacora MaquinariasJyS|MaquinariasJyS]] — Si quedó algo de feedback del cliente.
+- [x] [[Bitacora QRust|Kliprr - Backend]] — Claude Code (solo si SO + Estadística están encaminados).
 
 ## 💻 IA & Dev
 
-- [ ] Claude Code — Scope cerrado para Kliprr backend.
-- [ ] Documentar aprendizaje técnico en Obsidian si aparece.
+- [x] Claude Code — Scope cerrado para Kliprr backend.
+- [x] Documentar aprendizaje técnico en Obsidian si aparece.
 
 ## 🧘 Personal
 
-- [ ] Caminata / moverse (despejar la mente entre bloques de SO).
+- [x] Caminata / moverse (despejar la mente entre bloques de SO).
 - [ ] Dormir a las 11:30 PM máximo — mañana domingo hay que entregar.
 
 ## ✅ Cierre
 
 - [ ] Generar [[sabado-checkin]] al final del día.
-- [ ] Dejar [[domingo-todolist]] listo si quedan pendientes.
-- [ ] Subir lo avanzado de SO a GitHub / drive si aplica.
+- [ ] Dejar [[2026/Abril/Semana 4/domingo/domingo-todolist]] listo si quedan pendientes.
+- [x] Subir lo avanzado de SO a GitHub / drive si aplica.
 
 ---
 

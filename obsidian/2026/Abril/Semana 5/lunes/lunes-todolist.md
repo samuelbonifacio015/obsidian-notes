@@ -41,7 +41,7 @@ fecha: 2026-04-27
 
 ## Productividad
 
-- [x] Revisar [[domingo-todolist]] y mover pendientes reales, no los imaginarios
+- [x] Revisar [[2026/Abril/Semana 4/domingo/domingo-todolist]] y mover pendientes reales, no los imaginarios
 - [x] Actualizar plan semanal de Semana 5 con deadlines UPC
 - [x] Crear o completar [[lunes-checkin]] al cierre del dia
 
