@@ -2,6 +2,7 @@
 # Sábado TodoList — 02 de Mayo de 2026
 
 > 🗓️ Sábado decisivo. Mañana domingo entrega el informe PC2 de SO. Hoy es el día de ejecutar.
+> 🤧 **Contexto del día:** Samuel está resfriado, lo que limita el foco y la energía. Priorizar lo crítico y no forzar de más.
 
 ## 🎯 Top 3
 
