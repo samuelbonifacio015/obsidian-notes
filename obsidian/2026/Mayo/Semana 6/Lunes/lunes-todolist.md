@@ -3,7 +3,7 @@
 
 ## Top 3
 
-- [ ] [[MaquinariasJyS]] - Avance de agregar 2-3 imágenes | [[Frontend catalogo MaquinariasJyS]]
+- [x] [[MaquinariasJyS]] - Avance de agregar 2-3 imágenes | [[Frontend catalogo MaquinariasJyS]]
 - [ ] [[Reunion - Apps Moviles]] - Definir los módulos por integrante de esta nueva entrega
 - [ ] [[Estadistica Aplicada]] - Primeros pasos previos EU1 (Notebook & Claude)
 
