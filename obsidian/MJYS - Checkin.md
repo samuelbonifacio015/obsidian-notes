@@ -1,4 +1,5 @@
 
+**Consultar -> [[MaquinariasJyS]] [[MaquinariasJyS - MOC]] [[Backend MaquinariasJyS]] [[Frontend catalogo MaquinariasJyS]]**
 ## Lunes 4 de mayo:
 
 - [x] admin/login conexión con Django/Supabase
