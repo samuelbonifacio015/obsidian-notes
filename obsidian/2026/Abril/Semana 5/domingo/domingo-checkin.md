@@ -122,7 +122,7 @@ relacionado: "[[2026/Abril/Semana 5/domingo/domingo-todolist]]"
 
 **[pe-01]** ¿Hiciste ejercicio hoy?
 
-> R: No registrado en el todolist.
+> R: Sí. Jugué fútbol — metí 1 gol y di 2 asistencias. Jugué muy bien.
 
 **[pe-02]** ¿A qué hora dormiste anoche y cómo amaneciste?
 
@@ -130,7 +130,7 @@ relacionado: "[[2026/Abril/Semana 5/domingo/domingo-todolist]]"
 
 **[pe-03]** ¿Hubo algo que te bloqueó emocionalmente o mentalmente hoy?
 
-> R: No registrado.
+> R: Al contrario. Jugué FC26 con mi primo y eso mejoró bastante mi mood. Día positivo emocionalmente.
 
 ---
 
@@ -138,7 +138,8 @@ relacionado: "[[2026/Abril/Semana 5/domingo/domingo-todolist]]"
 
 - Logro principal del día: entrega de **PC2 Sistemas Operativos** + **DD1 Estadística Tarea 4** completadas.
 - Pendiente más urgente: Top 3 del día (MaquinariasJyS, Reunión Ruben, Reunión Apps Móviles) se arrastran al lunes.
-- Observación honesta del día: domingo fue de **cierres obligatorios académicos**. Los proyectos estratégicos quedaron relegados.
+- Wins personales: ⚽ fútbol con 1 gol y 2 asistencias (jugué bien) + 🎮 FC26 con mi primo que mejoró mi mood.
+- Observación honesta del día: domingo fue de **cierres obligatorios académicos**. Los proyectos estratégicos quedaron relegados, pero el balance personal fue positivo.
 
 🐒 **Pendiente:**
 

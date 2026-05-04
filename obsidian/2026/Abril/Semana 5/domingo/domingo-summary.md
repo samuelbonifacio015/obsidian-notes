@@ -1,15 +1,15 @@
 ---
-tags: [daily-summary, dia/operativo]
+tags: [daily-summary, dia/operativo, dia/balanceado]
 fecha: 2026-05-03
 dia: domingo
-score: 5/10
+score: 6/10
 tipo: summary
 relacionado: "[[domingo-checkin]]"
 ---
 
 # 📋 Summary — Domingo, 03 de Mayo de 2026
 
-> *Cierres académicos obligatorios; proyectos estratégicos relegados.*
+> *Cierres académicos + fútbol y FC26 con mi primo. Día balanceado.*
 
 ---
 
@@ -19,6 +19,8 @@ Domingo enfocado en las urgencias académicas: entregaste la **PC2 de Sistemas O
 
 Sin embargo, el Top 3 del día **(MaquinariasJyS, Reunión Ruben, Reunión Apps Móviles)** quedó completamente pendiente. También intentaste sin éxito la automatización de WhatsApp con Hermes.
 
+En lo personal, el día tuvo wins importantes: ⚽ jugaste fútbol — 1 gol, 2 asistencias, jugaste bien — y luego 🎮 jugaste FC26 con tu primo, lo que mejoró tu mood significativamente.
+
 ---
 
 ## 🏆 Logros
@@ -27,6 +29,8 @@ Sin embargo, el Top 3 del día **(MaquinariasJyS, Reunión Ruben, Reunión Apps 
 - **Estadística Aplicada** — DD1 Tarea 4 terminada. Primer paso concreto en la materia.
 - **Claude Code** — límite semanal reseteado.
 - **Codex** — mascota Spiderman Noir instalada + automatización de reserva de cubículos.
+- ⚽ **Fútbol** — 1 gol y 2 asistencias. Rendimiento sólido.
+- 🎮 **FC26 con mi primo** — mood recargado para arrancar la semana.
 
 ---
 
@@ -48,13 +52,13 @@ Sin embargo, el Top 3 del día **(MaquinariasJyS, Reunión Ruben, Reunión Apps 
 
 ---
 
-## 📊 Score: 5/10 — #dia/operativo
+## 📊 Score: 6/10 — #dia/balanceado
 
 ```
-█████░░░░░ 5/10
+██████░░░░ 6/10
 ```
 
-> Día resolvió lo urgente pero no lo importante. Dos entregas académicas cerradas, pero el avance estratégico (proyectos, reuniones) se aplazó por completo.
+> Académicamente fue día de cierres obligatorios (SO + Estadística). Proyectos estratégicos aplazados. Pero el balance personal lo salva: fútbol con gol y asistencias + FC26 con tu primo = mood alto para arrancar Semana 6.
 
 ---
 

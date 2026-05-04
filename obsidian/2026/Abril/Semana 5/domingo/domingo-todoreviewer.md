@@ -38,7 +38,9 @@ relacionado: "[[2026/Abril/Semana 5/domingo/domingo-todolist]]"
 ## 🏃 Personal / Mantenimiento
 
 - [x] Obsidian / diario — quedó registrado [[domingo-todolist]].
-- [ ] Check-in del día — pendiente de generar.
+- [x] Check-in del día — generado posteriormente.
+- [x] ⚽ **Fútbol** — jugaste, metiste 1 gol y diste 2 asistencias. Buen rendimiento.
+- [x] 🎮 **FC26 con tu primo** — mejoró tu mood para arrancar la semana.
 
 ---
 
@@ -64,9 +66,9 @@ relacionado: "[[2026/Abril/Semana 5/domingo/domingo-todolist]]"
 
 ---
 
-## 🕐 Resultado del dia: 44% efectivo
+## 🕐 Resultado del dia: 50% efectivo
 
-> Domingo resolvió las tareas urgentes de universidad (SO y Estadística) y dejó IA lista con Claude Code + Codex, pero los proyectos personales y las reuniones clave quedaron para el lunes. El día fue de **cierres académicos obligatorios**, no de avance estratégico.
+> Domingo resolvió las tareas urgentes de universidad (SO y Estadística) y dejó IA lista con Claude Code + Codex, pero los proyectos personales y las reuniones clave quedaron para el lunes. El día fue de **cierres académicos obligatorios**, no de avance estratégico. Sin embargo, el balance personal fue positivo: ⚽ fútbol con gol+asistencias y 🎮 FC26 con tu primo mejoraron el mood para arrancar Semana 6 con energía.
 
 ---
 
