@@ -6,7 +6,7 @@
 
 ## 🎯 Top 3
 
-- [ ] [[Sistemas Operativos|Sistemas Operativos]] — **PC2: Informe** (entrega mañana domingo). Prioridad #1 absoluta.
+- [x] [[Sistemas Operativos|Sistemas Operativos]] — **PC2: Informe** (entrega mañana domingo). Prioridad #1 absoluta.
 - [ ] [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] — Elegir dataset y escribir estructura de la DD1. **Urgente — lleva 5+ días sin avance.**
 - [x] [[Bitacora QRust|Kliprr - Backend]] — Claude Code con scope cerrado (si sobra tiempo después de SO).
 

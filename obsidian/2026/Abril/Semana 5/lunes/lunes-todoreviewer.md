@@ -1,10 +1,13 @@
 ---
-tags: [todolist, lunes, reviewer]
+tags:
+  - todolist
+  - lunes
+  - reviewer
 fecha: 2026-04-27
 dia: lunes
 total_estimado: parcial
 tipo: todoreviewer
-relacionado: "[[lunes-todolist]]"
+relacionado: "[[2026/Abril/Semana 5/lunes/lunes-todolist]]"
 ---
 
 # 📋 Todoreviewer — Lunes, 27 de Abril de 2026
@@ -38,7 +41,7 @@ relacionado: "[[lunes-todolist]]"
 
 ## 🏃 Personal / Mantenimiento
 
-- [x] Obsidian / diario — quedaron [[lunes-checkin]] y [[lunes-todolist]].
+- [x] Obsidian / diario — quedaron [[lunes-checkin]] y [[2026/Abril/Semana 5/lunes/lunes-todolist]].
 - [ ] Plan semanal — el check-in dice que no se revisó ni actualizó el plan semanal.
 - [x] Energía / sueño — dormiste 9PM, despertaste 5:30AM con muy buen feeling y sin somnolencia post-almuerzo.
 - [x] Ejercicio / pasos — 30 push ups y 8k pasos.
@@ -98,4 +101,4 @@ relacionado: "[[lunes-todolist]]"
 
 ---
 
-_Generado con `todo-reviewer` · [[lunes-todolist]] · [[domingo-todoreviewer]] ← → [[martes-todoreviewer]]_
+_Generado con `todo-reviewer` · [[2026/Abril/Semana 5/lunes/lunes-todolist]] · [[domingo-todoreviewer]] ← → [[martes-todoreviewer]]_

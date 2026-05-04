@@ -1,15 +1,16 @@
 ---
-tags: [daily-checkin]
+tags:
+  - daily-checkin
 fecha: 2026-04-27
 dia: lunes
 estado: inferido-desde-todolist
-relacionado: "[[lunes-todolist]]"
+relacionado: "[[2026/Abril/Semana 5/lunes/lunes-todolist]]"
 ---
 
 # 🐒 Daily Check-in — Lunes, 27 de Abril de 2026
 
 > 🐒 Check-in del lunes, 27 de abril.
-> Base tomada de [[lunes-todolist]] y contexto disponible.
+> Base tomada de [[2026/Abril/Semana 5/lunes/lunes-todolist]] y contexto disponible.
 >
 > Arranque de Semana 5 con foco en [[Bitacora Calculo II|Calculo II]], [[Bitacora MaquinariasJyS|MaquinariasJyS]] y cumpleaños de tu mamá.
 
@@ -19,7 +20,7 @@ relacionado: "[[lunes-todolist]]"
 
 ### Cálculo II — foco principal del dia
 
-Contexto inferido desde [[lunes-todolist]]: quedaron marcadas como completadas la práctica corregida de EU1, el bloque de superficies/dominios/gráficas, la corrección activa y [[Razonamiento Cuantitativo]].
+Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: quedaron marcadas como completadas la práctica corregida de EU1, el bloque de superficies/dominios/gráficas, la corrección activa y [[Razonamiento Cuantitativo]].
 
 **[ac-01]** ¿Avanzaste algo de Cálculo hoy? ¿Qué tema exacto estudiaste?
 
@@ -59,7 +60,7 @@ ejemplo: animation.js perfomance.js
 
 ## 🛠️ Proyectos
 
-Contexto inferido desde [[lunes-todolist]]: [[Bitacora MaquinariasJyS|MaquinariasJyS]] aparece marcado con flujo principal, pantalla funcional básica y tracker de `admin/orders`; [[Bitacora QRust|QRust Org]] aparece como decisión técnica registrada si quedó después del merge.
+Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: [[Bitacora MaquinariasJyS|MaquinariasJyS]] aparece marcado con flujo principal, pantalla funcional básica y tracker de `admin/orders`; [[Bitacora QRust|QRust Org]] aparece como decisión técnica registrada si quedó después del merge.
 
 **[pr-01]** ¿Tocaste MaquinariasJyS hoy?
 
@@ -81,7 +82,7 @@ Contexto inferido desde [[lunes-todolist]]: [[Bitacora MaquinariasJyS|Maquinaria
 
 ## 🤖 IA & Dev
 
-Contexto inferido desde [[lunes-todolist]]: aparece marcado el uso de Claude Code con scope cerrado para [[Bitacora MaquinariasJyS|MaquinariasJyS]] y el uso de modelo/mentor para corregir [[Bitacora Calculo II|Calculo II]]; queda pendiente documentar una nota técnica o académica nueva en Obsidian.
+Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: aparece marcado el uso de Claude Code con scope cerrado para [[Bitacora MaquinariasJyS|MaquinariasJyS]] y el uso de modelo/mentor para corregir [[Bitacora Calculo II|Calculo II]]; queda pendiente documentar una nota técnica o académica nueva en Obsidian.
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo?
 
@@ -103,11 +104,11 @@ Contexto inferido desde [[lunes-todolist]]: aparece marcado el uso de Claude Cod
 
 ## 📋 Productividad
 
-Contexto inferido desde [[lunes-todolist]]: aparecen marcados la revisión de [[2026/Abril/Semana 4/domingo/domingo-todolist]], la actualización del plan semanal de Semana 5, la creación o cierre de [[lunes-checkin]] y la preparación de [[martes-todolist]].
+Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: aparecen marcados la revisión de [[2026/Abril/Semana 4/domingo/domingo-todolist]], la actualización del plan semanal de Semana 5, la creación o cierre de [[lunes-checkin]] y la preparación de [[martes-todolist]].
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
-> **R**: Escribí [[lunes-checkin]], [[lunes-todolist]]
+> **R**: Escribí [[lunes-checkin]], [[2026/Abril/Semana 5/lunes/lunes-todolist]]
 
 **[pd-02]** ¿Actualizaste o creaste alguna nota en Obsidian?
 
@@ -129,7 +130,7 @@ Contexto inferido desde [[lunes-todolist]]: aparecen marcados la revisión de [[
 
 ## 🏃 Personal
 
-Contexto dado por Samuel: el lunes fue el cumpleaños de tu mamá. Contexto inferido desde [[lunes-todolist]]: aparecen marcados 8k pasos, registro de energía/sueño/somnolencia y corte de estudio si bajaba la calidad.
+Contexto dado por Samuel: el lunes fue el cumpleaños de tu mamá. Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: aparecen marcados 8k pasos, registro de energía/sueño/somnolencia y corte de estudio si bajaba la calidad.
 
 **[pe-01]** ¿Hiciste ejercicio hoy?
 
@@ -151,7 +152,7 @@ Contexto dado por Samuel: el lunes fue el cumpleaños de tu mamá. Contexto infe
 
 ## 🐒 Nota de cierre
 
-- Logro principal del dia: inferido desde [[lunes-todolist]], el avance más fuerte fue [[Bitacora Calculo II|Calculo II]] con práctica corregida y arranque de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
+- Logro principal del dia: inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]], el avance más fuerte fue [[Bitacora Calculo II|Calculo II]] con práctica corregida y arranque de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 - Pendiente mas urgente: [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] quedó sin entregable visible y debe pasar al siguiente día.
 - Observacion honesta del dia: el todolist muestra un lunes productivo, pero el check-in queda inferido hasta que Samuel complete las respuestas concretas.
 

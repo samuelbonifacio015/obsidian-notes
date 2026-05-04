@@ -98,7 +98,7 @@ Semana 5 — 2 días registrados de 7. Score: 0%. Foco principal inferido de arc
 
 ## Links
 
-[[lunes-todolist]]
+[[2026/Abril/Semana 5/lunes/lunes-todolist]]
 [[martes-todolist]]
 
 ---

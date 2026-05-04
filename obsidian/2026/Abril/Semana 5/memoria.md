@@ -95,7 +95,7 @@ Días ligeros: acostarse ~11:00 PM, levantarse ~7:30-8:00 AM.
 
 ## 🔗 Enlaces de la Semana
 
-[[lunes-checkin]] · [[lunes-summary]] · [[lunes-todolist]] · [[lunes-todoreviewer]]
+[[lunes-checkin]] · [[lunes-summary]] · [[2026/Abril/Semana 5/lunes/lunes-todolist]] · [[lunes-todoreviewer]]
 [[martes-checkin]] · [[martes-summary]] · [[martes-todolist]] · [[martes-todoreviewer]]
 [[miercoles-checkin]] · [[miercoles-summary]] · [[miercoles-todolist]]
 [[jueves-checkin]] · [[jueves-summary]] · [[jueves-todolist]]

@@ -8,12 +8,12 @@
 
 ## Universidad
 
-- [ ] [[PC2 Sistemas Operativos]] - Completar Presentación e Informe
-- [ ] [[Estadistica Aplicada]] - DD1 Tarea 4
+- [x] [[PC2 Sistemas Operativos]] - Completar Presentación e Informe
+- [x] [[Estadistica Aplicada]] - DD1 Tarea 4
 - [ ] [[Reunion - Apps Moviles]] - Módulos y Backend con C#
 
 ## IA
 
 - [ ] [[Hermes WhatsApp]] - Automatizar mensajes en WhatsApp con Hermes ***(está complicado)***
-- [ ] [[Claude Code]] - Límite Semanal Reseteado
-- [ ] [[Codex]] - Instalar mascota de Spiderman Noir | Automatización de [[Reserva de Cubiculos]]
+- [x] [[Claude Code]] - Límite Semanal Reseteado
+- [x] [[Codex]] - Instalar mascota de Spiderman Noir | Automatización de [[Reserva de Cubiculos]]

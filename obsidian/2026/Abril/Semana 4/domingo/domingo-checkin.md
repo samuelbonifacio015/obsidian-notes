@@ -106,7 +106,7 @@ relacionado: "[[2026/Abril/Semana 4/domingo/domingo-todolist]]"
 
 **[pd-03]** ¿Revisaste o actualizaste tu plan semanal?
 
-> R: Parcial. Se preparó el arranque de Semana 5, pero quedó pendiente revisar lo que queda para lunes y preparar [[lunes-todolist]].
+> R: Parcial. Se preparó el arranque de Semana 5, pero quedó pendiente revisar lo que queda para lunes y preparar [[2026/Abril/Semana 3/lunes-todolist]].
 
 **[pd-04]** ¿Tuviste somnolencia post-almuerzo? ¿Qué hiciste al respecto?
 
@@ -147,7 +147,7 @@ relacionado: "[[2026/Abril/Semana 4/domingo/domingo-todolist]]"
 - [ ] Revisar `admin/orders` en [[Bitacora MaquinariasJyS|MaquinariasJyS]] y anotar ajustes visuales
 - [ ] Definir checklist del primer avance frontend de [[Bitacora MaquinariasJyS|MaquinariasJyS]] para Semana 5
 - [x] Registrar feedback pendiente de [[Bitacora QRust|QRust - Klippr]]
-- [ ] Preparar [[lunes-todolist]]
+- [ ] Preparar [[2026/Abril/Semana 3/lunes-todolist]]
 - [ ] Generar [[domingo-summary]]
 
 ---

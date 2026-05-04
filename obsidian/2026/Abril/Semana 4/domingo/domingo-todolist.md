@@ -45,7 +45,7 @@ fecha: 2026-04-26
 ## Cierre
 
 - [ ] Revisar que queda pendiente para lunes
-- [ ] Preparar [[lunes-todolist]]
+- [ ] Preparar [[2026/Abril/Semana 3/lunes-todolist]]
 - [ ] Generar [[domingo-summary]] si el check-in queda completo
 
-Hoy cierro Semana 4 y dejo lista la pista de despegue para [[lunes-todolist]].
+Hoy cierro Semana 4 y dejo lista la pista de despegue para [[2026/Abril/Semana 3/lunes-todolist]].

@@ -54,7 +54,7 @@ fecha: 2026-04-28
 
 ## Productividad
 
-- [x] Revisar [[lunes-todolist]] y mover solo pendientes reales al tracker de Semana 5
+- [x] Revisar [[2026/Abril/Semana 3/lunes-todolist]] y mover solo pendientes reales al tracker de Semana 5
 - [x] Actualizar [[week-tracker]] con el plan del martes y estado de lunes como `sin cierre`
 - [x] Crear o completar [[martes-checkin]] al cierre del dia
 - [x] Mantener visible el cuello de botella: [[Bitacora Calculo II|Calculo II]] + [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] antes de expandir proyectos

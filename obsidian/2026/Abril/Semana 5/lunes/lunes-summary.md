@@ -27,7 +27,7 @@ Lunes intenso y bastante real: arrancaste a las 5:30AM, estudiaste hasta las 10A
 - Avanzaste en [[Aplicaciones Moviles]] / [[Bitacora QRust|QRust - Klippr]] con un prompt efectivo para Claude: mockup del teléfono, hover/zoom, smooth scroll y optimización de rendimiento.
 - Usaste Claude Code en un repo y el prompt funcionó.
 - Descubriste `hermes-agent/MoClaw` y quedó como interés técnico futuro.
-- Escribiste [[lunes-checkin]] y [[lunes-todolist]].
+- Escribiste [[lunes-checkin]] y [[2026/Abril/Semana 5/lunes/lunes-todolist]].
 - Cumpliste 30 push ups y 8k pasos.
 - Dormiste temprano, amaneciste con muy buena energía y no hubo somnolencia post-almuerzo ni bloqueo mental.
 - Cerraste el día con tu mamá por su cumpleaños.
@@ -64,7 +64,7 @@ Lunes intenso y bastante real: arrancaste a las 5:30AM, estudiaste hasta las 10A
 
 ## 🔗 Notas del día
 
-[[lunes-checkin]] | [[lunes-todolist]] | [[martes-todolist]] | [[Bitacora Calculo II|Calculo II]] | [[Razonamiento Cuantitativo]] | [[Aplicaciones Moviles]] | [[Bitacora QRust|QRust - Klippr]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]]
+[[lunes-checkin]] | [[2026/Abril/Semana 5/lunes/lunes-todolist]] | [[martes-todolist]] | [[Bitacora Calculo II|Calculo II]] | [[Razonamiento Cuantitativo]] | [[Aplicaciones Moviles]] | [[Bitacora QRust|QRust - Klippr]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 
 ---
 

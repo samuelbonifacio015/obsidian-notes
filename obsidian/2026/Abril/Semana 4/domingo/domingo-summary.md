@@ -15,7 +15,7 @@ relacionado: "[[domingo-checkin]]"
 
 ## ⚡ Resumen del día
 
-Domingo enfocado en cerrar Semana 4 con avance real en [[Bitacora Calculo II|Calculo II]]: ejecutaste una simulación de EU1 sin guía paso a paso y corregiste errores de superficies, dominios, gráficas y razonamiento cuantitativo. También revisaste Blackboard UPC y usaste Deepseek / modelo local como mentor de corrección, no como sustituto del estudio. El arranque de Semana 5 quedó parcialmente preparado, pero [[Bitacora Estadistica Aplicada|Estadistica Aplicada]], `admin/orders` de [[Bitacora MaquinariasJyS|MaquinariasJyS]] y [[lunes-todolist]] siguen abiertos.
+Domingo enfocado en cerrar Semana 4 con avance real en [[Bitacora Calculo II|Calculo II]]: ejecutaste una simulación de EU1 sin guía paso a paso y corregiste errores de superficies, dominios, gráficas y razonamiento cuantitativo. También revisaste Blackboard UPC y usaste Deepseek / modelo local como mentor de corrección, no como sustituto del estudio. El arranque de Semana 5 quedó parcialmente preparado, pero [[Bitacora Estadistica Aplicada|Estadistica Aplicada]], `admin/orders` de [[Bitacora MaquinariasJyS|MaquinariasJyS]] y [[2026/Abril/Semana 3/lunes-todolist]] siguen abiertos.
 
 ---
 
@@ -34,7 +34,7 @@ Domingo enfocado en cerrar Semana 4 con avance real en [[Bitacora Calculo II|Cal
 
 - [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] quedó sin revisión y sin estado claro de primera entrega.
 - [[Bitacora MaquinariasJyS|MaquinariasJyS]] quedó en preparación parcial: falta revisar `admin/orders` y definir checklist del primer avance frontend.
-- Cierre semanal incompleto: falta preparar [[lunes-todolist]] y terminar de ordenar pendientes para Semana 5.
+- Cierre semanal incompleto: falta preparar [[2026/Abril/Semana 3/lunes-todolist]] y terminar de ordenar pendientes para Semana 5.
 
 ---
 
@@ -43,7 +43,7 @@ Domingo enfocado en cerrar Semana 4 con avance real en [[Bitacora Calculo II|Cal
 - [ ] Revisar material pendiente de [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] y listar entregables concretos.
 - [ ] Revisar `admin/orders` en [[Bitacora MaquinariasJyS|MaquinariasJyS]] y anotar ajustes visuales.
 - [ ] Definir checklist del primer avance frontend de [[Bitacora MaquinariasJyS|MaquinariasJyS]] para Semana 5.
-- [ ] Preparar [[lunes-todolist]].
+- [ ] Preparar [[2026/Abril/Semana 3/lunes-todolist]].
 - [ ] Confirmar si Claude Code estará disponible para un bloque corto de [[Bitacora MaquinariasJyS|MaquinariasJyS]].
 - [ ] Completar qué quedó flojo después de la simulación de [[Bitacora Calculo II|Calculo II]].
 

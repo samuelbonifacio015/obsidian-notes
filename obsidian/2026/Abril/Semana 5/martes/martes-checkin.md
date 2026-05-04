@@ -87,7 +87,7 @@ Contexto inferido desde [[martes-todolist]]: aparecen marcados Claude Code para 
 
 ## 📋 Productividad
 
-Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [[lunes-todolist]], actualización de [[week-tracker]], creación o cierre de [[martes-checkin]] y mantener visible el cuello de botella [[Bitacora Calculo II|Calculo II]] + [[Bitacora Estadistica Aplicada|Estadistica Aplicada]].
+Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [[2026/Abril/Semana 3/lunes-todolist]], actualización de [[week-tracker]], creación o cierre de [[martes-checkin]] y mantener visible el cuello de botella [[Bitacora Calculo II|Calculo II]] + [[Bitacora Estadistica Aplicada|Estadistica Aplicada]].
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
