@@ -2,15 +2,15 @@
 
 ## Top 3
 
-- [ ] [[MaquinariasJyS]] - Avance de agregar 2-3 imágenes | [[Frontend catalogo MaquinariasJyS]]
+- [x] [[MaquinariasJyS]] - Avance de agregar 2-3 imágenes | [[Frontend catalogo MaquinariasJyS]]
 - [ ] [[Reunion Ruben]] - Ayudar a instalar Hermes & Prototipo de Idea
-- [ ] [[Reunion - Apps Moviles]] - Definir los módulos por integrante de esta nueva entrega
+- [x] [[Reunion - Apps Moviles]] - Definir los módulos por integrante de esta nueva entrega
 
 ## Universidad
 
 - [x] [[PC2 Sistemas Operativos]] - Completar Presentación e Informe
 - [x] [[Estadistica Aplicada]] - DD1 Tarea 4
-- [ ] [[Reunion - Apps Moviles]] - Módulos y Backend con C#
+- [x] [[Reunion - Apps Moviles]] - Módulos y Backend con C#
 
 ## IA
 

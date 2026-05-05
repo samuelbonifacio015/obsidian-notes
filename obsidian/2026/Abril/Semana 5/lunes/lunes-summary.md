@@ -64,7 +64,7 @@ Lunes intenso y bastante real: arrancaste a las 5:30AM, estudiaste hasta las 10A
 
 ## 🔗 Notas del día
 
-[[lunes-checkin]] | [[2026/Abril/Semana 5/lunes/lunes-todolist]] | [[martes-todolist]] | [[Bitacora Calculo II|Calculo II]] | [[Razonamiento Cuantitativo]] | [[Aplicaciones Moviles]] | [[Bitacora QRust|QRust - Klippr]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]]
+[[lunes-checkin]] | [[2026/Abril/Semana 5/lunes/lunes-todolist]] | [[2026/Abril/Semana 5/martes/martes-todolist]] | [[Bitacora Calculo II|Calculo II]] | [[Razonamiento Cuantitativo]] | [[Aplicaciones Moviles]] | [[Bitacora QRust|QRust - Klippr]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 
 ---
 

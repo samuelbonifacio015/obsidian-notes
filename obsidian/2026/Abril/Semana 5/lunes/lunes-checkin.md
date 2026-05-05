@@ -104,7 +104,7 @@ Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: aparece ma
 
 ## 📋 Productividad
 
-Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: aparecen marcados la revisión de [[2026/Abril/Semana 4/domingo/domingo-todolist]], la actualización del plan semanal de Semana 5, la creación o cierre de [[lunes-checkin]] y la preparación de [[martes-todolist]].
+Contexto inferido desde [[2026/Abril/Semana 5/lunes/lunes-todolist]]: aparecen marcados la revisión de [[2026/Abril/Semana 4/domingo/domingo-todolist]], la actualización del plan semanal de Semana 5, la creación o cierre de [[lunes-checkin]] y la preparación de [[2026/Abril/Semana 5/martes/martes-todolist]].
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
@@ -161,7 +161,7 @@ Contexto dado por Samuel: el lunes fue el cumpleaños de tu mamá. Contexto infe
 - [ ] Completar respuestas concretas de [[lunes-checkin]]
 - [ ] Confirmar evidencia real de [[Bitacora Calculo II|Calculo II]]: ejercicios, errores y fórmulas
 - [ ] Confirmar evidencia real de [[Bitacora MaquinariasJyS|MaquinariasJyS]]: pantalla, componente, tracker o decisión
-- [ ] Mover [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] a [[martes-todolist]] o [[miercoles-todolist]] con entregable concreto
+- [ ] Mover [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] a [[2026/Abril/Semana 5/martes/martes-todolist]] o [[miercoles-todolist]] con entregable concreto
 - [ ] Registrar cómo afectó el cumpleaños de tu mamá al ritmo del día
 - [ ] Generar [[lunes-summary]]
 - [ ] Generar [[lunes-todoreviewer]] si falta

@@ -1,10 +1,13 @@
 ---
-tags: [todolist, martes, reviewer]
+tags:
+  - todolist
+  - martes
+  - reviewer
 fecha: 2026-04-28
 dia: martes
 total_estimado: parcial
 tipo: todoreviewer
-relacionado: "[[martes-todolist]]"
+relacionado: "[[2026/Abril/Semana 5/martes/martes-todolist]]"
 ---
 
 # 📋 Todoreviewer — Martes, 28 de Abril de 2026
@@ -38,7 +41,7 @@ relacionado: "[[martes-todolist]]"
 
 ## 🏃 Personal / Mantenimiento
 
-- [ ] Obsidian / check-in / summary — faltan [[martes-checkin]] y [[martes-summary]], por eso este reviewer queda inferido desde [[martes-todolist]] y evidencia del vault.
+- [ ] Obsidian / check-in / summary — faltan [[martes-checkin]] y [[martes-summary]], por eso este reviewer queda inferido desde [[2026/Abril/Semana 5/martes/martes-todolist]] y evidencia del vault.
 - [ ] Energia / sueño / pasos — sin registro; no se puede validar meta de 8k pasos, sueño ni somnolencia post-almuerzo.
 - [ ] [[week-tracker]] — sigue con martes "sin registro" y score semanal 0%; falta reemplazar plan por ejecucion real.
 
@@ -98,4 +101,4 @@ relacionado: "[[martes-todolist]]"
 
 ---
 
-_Generado con `todo-reviewer` · [[martes-todolist]] · [[lunes-todoreviewer]] ← → [[miercoles-todoreviewer]]_
+_Generado con `todo-reviewer` · [[2026/Abril/Semana 5/martes/martes-todolist]] · [[lunes-todoreviewer]] ← → [[miercoles-todoreviewer]]_

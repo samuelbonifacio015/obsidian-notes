@@ -55,6 +55,6 @@ fecha: 2026-04-27
 
 - [x] Revisar que avance concreto quedo en Calculo
 - [x] Revisar que entregable visible quedo en Estadistica o MJYS
-- [x] Preparar [[martes-todolist]]
+- [x] Preparar [[2026/Abril/Semana 5/martes/martes-todolist]]
 
 Hoy arranca Semana 5: primero examenes UPC, luego avance frontend de [[Bitacora MaquinariasJyS|MaquinariasJyS]].

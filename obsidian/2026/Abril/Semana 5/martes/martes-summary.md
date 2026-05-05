@@ -26,7 +26,7 @@ Martes productivo y con foco fuerte en [[Bitacora MaquinariasJyS|MaquinariasJyS]
 - Claude Code se usó para cerrar avance en backend y conexión con frontend.
 - Armastes un comando para sincronizar ambos repositorios sin perder contexto.
 - Repasaste Django, API keys y estructura.
-- Registraste [[martes-checkin]] y [[martes-todolist]] en Obsidian.
+- Registraste [[martes-checkin]] y [[2026/Abril/Semana 5/martes/martes-todolist]] en Obsidian.
 - Confirmaste que el todolist coincide con lo que realmente pasó.
 - No hubo somnolencia post-almuerzo ni bloqueo emocional/mental.
 - Hiciste ejercicio: push ups, sentadillas, peso muerto al fallo y abdominales.
@@ -62,7 +62,7 @@ Martes productivo y con foco fuerte en [[Bitacora MaquinariasJyS|MaquinariasJyS]
 
 ## 🔗 Notas del día
 
-[[martes-checkin]] | [[martes-todolist]] | [[martes-todoreviewer]] | [[lunes-summary]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]] | [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] | [[Aplicaciones Moviles]] | [[Kotlin]]
+[[martes-checkin]] | [[2026/Abril/Semana 5/martes/martes-todolist]] | [[martes-todoreviewer]] | [[lunes-summary]] | [[Bitacora MaquinariasJyS|MaquinariasJyS]] | [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] | [[Aplicaciones Moviles]] | [[Kotlin]]
 
 ---
 

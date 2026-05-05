@@ -91,7 +91,7 @@ relacionado: "[[2026/Abril/Semana 5/lunes/lunes-todolist]]"
 
 - [[lunes-checkin]]
 - [[lunes-summary]]
-- [[martes-todolist]]
+- [[2026/Abril/Semana 5/martes/martes-todolist]]
 - [[Bitacora Calculo II|Calculo II]]
 - [[Razonamiento Cuantitativo]]
 - [[Sistemas Operativos]]

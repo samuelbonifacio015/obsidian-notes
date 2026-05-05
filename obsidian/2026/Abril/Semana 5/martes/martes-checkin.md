@@ -1,15 +1,16 @@
 ---
-tags: [daily-checkin]
+tags:
+  - daily-checkin
 fecha: 2026-04-28
 dia: martes
 estado: inferido-desde-todolist
-relacionado: "[[martes-todolist]]"
+relacionado: "[[2026/Abril/Semana 5/martes/martes-todolist]]"
 ---
 
 # 🐒 Daily Check-in — Martes, 28 de Abril de 2026
 
 > 🐒 Check-in del martes, 28 de abril.
-> Base tomada de [[martes-todolist]], [[lunes-checkin]], [[lunes-summary]] y [[martes-todoreviewer]].
+> Base tomada de [[2026/Abril/Semana 5/martes/martes-todolist]], [[lunes-checkin]], [[lunes-summary]] y [[martes-todoreviewer]].
 >
 > Martes enfocado en [[Bitacora MaquinariasJyS|MaquinariasJyS]], [[Bitacora Calculo II|Calculo II]], patrones [[Kotlin]] y cierre honesto de pendientes UPC.
 
@@ -39,7 +40,7 @@ relacionado: "[[martes-todolist]]"
 
 ## 🛠️ Proyectos
 
-Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: [[Bitacora MaquinariasJyS|MaquinariasJyS]] aparece marcado como avance visible con flujo elegido, revisión de `admin/orders` e implementación básica; el reviewer lo mantiene parcial porque falta tracker, pantalla, checklist o decisión técnica verificable. **Foco del del día: [[Bitacora MaquinariasJyS|MaquinariasJyS]]
+Contexto inferido desde [[2026/Abril/Semana 5/martes/martes-todolist]] y [[martes-todoreviewer]]: [[Bitacora MaquinariasJyS|MaquinariasJyS]] aparece marcado como avance visible con flujo elegido, revisión de `admin/orders` e implementación básica; el reviewer lo mantiene parcial porque falta tracker, pantalla, checklist o decisión técnica verificable. **Foco del del día: [[Bitacora MaquinariasJyS|MaquinariasJyS]]
 
 **[pr-01]** ¿Tocaste MaquinariasJyS hoy?
 
@@ -65,7 +66,7 @@ Contexto inferido desde [[martes-todolist]] y [[martes-todoreviewer]]: [[Bitacor
 
 ## 🤖 IA & Dev
 
-Contexto inferido desde [[martes-todolist]]: aparecen marcados Claude Code para [[Bitacora MaquinariasJyS|MaquinariasJyS]], modelo local / Deepseek para corregir [[Bitacora Calculo II|Calculo II]], documentación técnica y registro de decisión técnica. [[martes-todoreviewer]] advierte que falta evidencia concreta de esas marcas.
+Contexto inferido desde [[2026/Abril/Semana 5/martes/martes-todolist]]: aparecen marcados Claude Code para [[Bitacora MaquinariasJyS|MaquinariasJyS]], modelo local / Deepseek para corregir [[Bitacora Calculo II|Calculo II]], documentación técnica y registro de decisión técnica. [[martes-todoreviewer]] advierte que falta evidencia concreta de esas marcas.
 
 **[ai-01]** ¿Usaste Claude Code hoy en algún repo?
 
@@ -87,7 +88,7 @@ Contexto inferido desde [[martes-todolist]]: aparecen marcados Claude Code para 
 
 ## 📋 Productividad
 
-Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [[2026/Abril/Semana 3/lunes-todolist]], actualización de [[week-tracker]], creación o cierre de [[martes-checkin]] y mantener visible el cuello de botella [[Bitacora Calculo II|Calculo II]] + [[Bitacora Estadistica Aplicada|Estadistica Aplicada]].
+Contexto inferido desde [[2026/Abril/Semana 5/martes/martes-todolist]]: aparecen marcadas la revisión de [[2026/Abril/Semana 3/lunes-todolist]], actualización de [[week-tracker]], creación o cierre de [[martes-checkin]] y mantener visible el cuello de botella [[Bitacora Calculo II|Calculo II]] + [[Bitacora Estadistica Aplicada|Estadistica Aplicada]].
 
 **[pd-01]** ¿Escribiste en tu diario de Obsidian hoy?
 
@@ -95,7 +96,7 @@ Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [
 
 **[pd-02]** ¿Actualizaste o creaste alguna nota en Obsidian?
 
-> **R**: [[martes-checkin]] [[martes-todolist]]
+> **R**: [[martes-checkin]] [[2026/Abril/Semana 5/martes/martes-todolist]]
 
 **[pd-04]** ¿Tuviste somnolencia post-almuerzo?
 
@@ -113,7 +114,7 @@ Contexto inferido desde [[martes-todolist]]: aparecen marcadas la revisión de [
 
 ## 🏃 Personal
 
-Contexto inferido desde [[martes-todolist]]: la meta de 8k pasos quedó sin marcar, pero sí aparecen marcados el registro de energía/sueño/somnolencia, cortar estudio si bajaba la calidad y dormir antes de 12:30AM.
+Contexto inferido desde [[2026/Abril/Semana 5/martes/martes-todolist]]: la meta de 8k pasos quedó sin marcar, pero sí aparecen marcados el registro de energía/sueño/somnolencia, cortar estudio si bajaba la calidad y dormir antes de 12:30AM.
 
 **[pe-01]** ¿Hiciste ejercicio hoy?
 
@@ -135,7 +136,7 @@ Contexto inferido desde [[martes-todolist]]: la meta de 8k pasos quedó sin marc
 
 ## 🐒 Nota de cierre
 
-- Logro principal del dia: inferido desde [[martes-todolist]], hubo avance marcado en [[Bitacora MaquinariasJyS|MaquinariasJyS]], [[Bitacora Calculo II|Calculo II]] y patrones [[Kotlin]].
+- Logro principal del dia: inferido desde [[2026/Abril/Semana 5/martes/martes-todolist]], hubo avance marcado en [[Bitacora MaquinariasJyS|MaquinariasJyS]], [[Bitacora Calculo II|Calculo II]] y patrones [[Kotlin]].
 - Pendiente mas urgente: [[Bitacora Estadistica Aplicada|Estadistica Aplicada]] sigue sin entregable visible y [[Bitacora MaquinariasJyS|MaquinariasJyS]] necesita evidencia concreta.
 - Observacion honesta del dia: el martes tiene muchas marcas `[x]`, pero [[martes-todoreviewer]] advierte que varias dependen de evidencia que aún no está registrada en el vault.
 
