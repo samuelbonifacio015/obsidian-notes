@@ -3,8 +3,8 @@
 
 ## Top 3
 
-- [ ] [[Klippr-Landing]] - Terminar el diseño UX/UI del Landing y pasarlo a Figma
-- [ ] [[Klippr-Landing]] - Extraer los componentes y enviar el zip
+- [x] [[Klippr-Landing]] - Terminar el diseño UX/UI del Landing y pasarlo a Figma
+- [x] [[Klippr-Landing]] - Extraer los componentes y enviar el zip
 - [ ] [[MaquinariasJyS]] - Avance en /admin **(Componentes, responsive)**
 
 ## Universidad
